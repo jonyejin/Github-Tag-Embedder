@@ -1,7 +1,7 @@
 Platforms
 Programming Languages
-Front-End Development
-Back-End Development
+Front End Development
+Back End Development
 Computer Science
 Big Data
 Theory

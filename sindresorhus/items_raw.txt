@@ -1,6 +1,6 @@
 Platforms
 Node.js - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-Cross-Platform - Writing cross-platform code on Node.js.
+Cross Platform - Writing cross-platform code on Node.js.
 Frontend Development
 iOS - Mobile operating system for Apple phones and tablets.
 Android - Mobile operating system developed by Google.
@@ -12,7 +12,7 @@ Xamarin - Mobile app development IDE, testing, and distribution.
 Linux
 Containers
 eBPF - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-Arch-based Projects - Linux distributions and projects based on Arch Linux.
+Arch based Projects - Linux distributions and projects based on Arch Linux.
 AppImage - Package apps in a single file that works on various mainstream Linux distributions.
 macOS - Operating system for Apple's Mac computers.
 Screensavers
@@ -204,13 +204,13 @@ Seed - Rust framework for creating web apps running in WebAssembly.
 Web Performance Budget - Techniques to ensure certain performance metrics for a website.
 Web Animation - Animations in the browser with JavaScript, CSS, SVG, etc.
 Yew - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
-Material-UI - Material Design React components for faster and easier web development.
+Material UI - Material Design React components for faster and easier web development.
 Building Blocks for Web Apps - Standalone features to be integrated into web apps.
 Svelte - App framework.
 Design systems - Collection of reusable components, guided by rules that ensure consistency and speed.
 Inertia.js - Make single-page apps without building an API.
 MDBootstrap - Templates, layouts, components, and widgets to rapidly build websites.
-Back-End Development
+Back End Development
 Flask - Python framework.
 Docker
 Vagrant - Automation virtual machine environment.
@@ -279,7 +279,7 @@ Quantum Computing - Computing which utilizes quantum mechanics and qubits on qua
 Theoretical Computer Science - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 Conversational AI - Build awesome chatbots and digital assistants.
 Big Data
-Big Data
+Big Data.
 Public Datasets
 Hadoop - Framework for distributed storage and processing of very large data sets.
 Data Engineering
@@ -322,7 +322,7 @@ Open Source Games
 Unity - Game engine.
 Chess
 LÖVE - Game engine.
-PICO-8 - Fantasy console.
+PICO 8 - Fantasy console.
 Game Boy Development
 Construct 2 - Game engine.
 Gideros - Game engine.
@@ -334,7 +334,7 @@ PlayCanvas - Game engine.
 Game Remakes - Actively maintained open-source game remakes.
 Flame - Game engine for Flutter.
 Discord Communities - Chat with friends and communities.
-CHIP-8 - Virtual computer game machine from the 70s.
+CHIP 8 - Virtual computer game machine from the 70s.
 Games of Coding - Learn a programming language by making games.
 Esports - Video games played as a sport.
 Development Environment
@@ -351,7 +351,7 @@ Cheat Sheet
 Pinned Gists - Dynamic pinned gists for your GitHub profile.
 Git Cheat Sheet & Git Flow
 Git Tips
-Git Add-ons - Enhance the git CLI.
+Git Add ons - Enhance the git CLI.
 Git Hooks - Scripts for automating tasks during git workflows.
 SSH
 FOSS for Developers
@@ -479,15 +479,15 @@ Code Review - Reviewing code.
 Creative Technology - Businesses & groups that specialize in combining computing, design, art, and user experience.
 Internships - CV writing guides and companies that hire interns.
 Networking
-Software-Defined Networking
+Software Defined Networking
 Network Analysis
 PCAPTools
-Real-Time Communications - Network protocols for near simultaneous exchange of media and data.
+Real Time Communications - Network protocols for near simultaneous exchange of media and data.
 SNMP - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 Decentralized Systems
 Bitcoin - Bitcoin services and tools for software developers.
 Ripple - Open source distributed settlement network.
-Non-Financial Blockchain - Non-financial blockchain applications.
+Non Financial Blockchain - Non-financial blockchain applications.
 Mastodon - Open source decentralized microblogging network.
 Ethereum - Distributed computing platform for smart contract development.
 Blockchain AI - Blockchain projects for artificial intelligence and machine learning.
@@ -580,19 +580,19 @@ Userscripts - Enhance your browsing experience.
 Pokémon - Pokémon and Pokémon GO.
 ChatOps - Managing technical and business operations through a chat.
 Falsehood - Falsehoods programmers believe in.
-Domain-Driven Design - Software development approach for complex needs by connecting the implementation to an evolving model.
+Domain Driven Design - Software development approach for complex needs by connecting the implementation to an evolving model.
 Quantified Self - Self-tracking through technology.
 SaltStack - Python-based config management system.
 Web Design - For digital designers.
 Creative Coding - Programming something expressive instead of something functional.
-No-Login Web Apps - Web apps that work without login.
+No Login Web Apps - Web apps that work without login.
 Free Software - Free as in freedom.
 Framer - Prototyping interactive UI designs.
 Markdown - Markup language.
 Dev Fun - Funny developer projects.
 Magento 2 - Open Source eCommerce built with PHP.
 TikZ - Graph drawing packages for TeX/LaTeX/ConTeXt.
-Ad-Free - Ad-free alternatives.
+Ad Free - Ad-free alternatives.
 Esolangs - Programming languages designed for experimentation or as jokes rather than actual use.
 Prometheus - Open-source monitoring system.
 Homematic - Smart home devices.
@@ -629,7 +629,7 @@ Advertising - Advertising and programmatic media for websites.
 Earth - Find ways to resolve the climate crisis.
 Naming - Naming things in computer science done right.
 Web Archiving - An effort to preserve the Web for future generations.
-WP-CLI - Command-line interface for WordPress.
+WP CLI - Command-line interface for WordPress.
 Credit Modeling - Methods for classifying credit applicants into risk classes.
 Ansible - A Python-based, open source IT configuration management and automation platform.
 Biological Visualizations - Interactive visualization of biological data on the web.
