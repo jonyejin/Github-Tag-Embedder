@@ -18,17 +18,24 @@ with open('/Users/andrewwonwhoonah/Github-Tag-Embedder/sindresorhus/items_raw.tx
     # 제목 순회
     while True:
         line = f.readline()
-        if line == content_list[index]:
+        print(line)
+        if not line:
+            output[content_name] = item_list
+            print(1)
+            break
+        elif line == content_list[index] + "\n":
             content_name = content_list[index]
+            print(2)
             continue
-        elif line == content_list[index + 1]:
+        elif index < len(content_list) - 1 and line == content_list[index + 1] + "\n":
             output[content_name] = item_list
             item_list = []
             index += 1
-            if index == len(content_list):
-                break
+            content_name = content_list[index]
+            print(3)
         else:
             item_list.append(line)
+            print(4)
             continue
        
 
