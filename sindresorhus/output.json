@@ -1,0 +1,2300 @@
+{
+    "Platforms": [
+        {
+            "sub_content": "Node.js ",
+            "description": " Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.\n"
+        },
+        {
+            "sub_content": "Cross Platform ",
+            "description": " Writing cross-platform code on Node.js.\n"
+        },
+        {
+            "sub_content": "Frontend Development\n"
+        },
+        {
+            "sub_content": "iOS ",
+            "description": " Mobile operating system for Apple phones and tablets.\n"
+        },
+        {
+            "sub_content": "Android ",
+            "description": " Mobile operating system developed by Google.\n"
+        },
+        {
+            "sub_content": "IoT & Hybrid Apps\n"
+        },
+        {
+            "sub_content": "Electron ",
+            "description": " Cross-platform native desktop apps using JavaScript/HTML/CSS.\n"
+        },
+        {
+            "sub_content": "Cordova ",
+            "description": " JavaScript API for hybrid apps.\n"
+        },
+        {
+            "sub_content": "React Native ",
+            "description": " JavaScript framework for writing natively rendering mobile apps for iOS and Android.\n"
+        },
+        {
+            "sub_content": "Xamarin ",
+            "description": " Mobile app development IDE, testing, and distribution.\n"
+        },
+        {
+            "sub_content": "Linux\n"
+        },
+        {
+            "sub_content": "Containers\n"
+        },
+        {
+            "sub_content": "eBPF ",
+            "description": " Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.\n"
+        },
+        {
+            "sub_content": "Arch based Projects ",
+            "description": " Linux distributions and projects based on Arch Linux.\n"
+        },
+        {
+            "sub_content": "AppImage ",
+            "description": " Package apps in a single file that works on various mainstream Linux distributions.\n"
+        },
+        {
+            "sub_content": "macOS ",
+            "description": " Operating system for Apple's Mac computers.\n"
+        },
+        {
+            "sub_content": "Screensavers\n"
+        },
+        {
+            "sub_content": "Apps\n"
+        },
+        {
+            "sub_content": "Open Source Apps\n"
+        },
+        {
+            "sub_content": "watchOS ",
+            "description": " Operating system for the Apple Watch.\n"
+        },
+        {
+            "sub_content": "JVM\n"
+        },
+        {
+            "sub_content": "Salesforce\n"
+        },
+        {
+            "sub_content": "Amazon Web Services\n"
+        },
+        {
+            "sub_content": "Windows\n"
+        },
+        {
+            "sub_content": "IPFS ",
+            "description": " P2P hypermedia protocol.\n"
+        },
+        {
+            "sub_content": "Fuse ",
+            "description": " Mobile development tools.\n"
+        },
+        {
+            "sub_content": "Heroku ",
+            "description": " Cloud platform as a service.\n"
+        },
+        {
+            "sub_content": "Raspberry Pi ",
+            "description": " Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.\n"
+        },
+        {
+            "sub_content": "Qt ",
+            "description": " Cross-platform GUI app framework.\n"
+        },
+        {
+            "sub_content": "WebExtensions ",
+            "description": " Cross-browser extension system.\n"
+        },
+        {
+            "sub_content": "Smart TV ",
+            "description": " Create apps for different TV platforms.\n"
+        },
+        {
+            "sub_content": "GNOME ",
+            "description": " Simple and distraction-free desktop environment for Linux.\n"
+        },
+        {
+            "sub_content": "KDE ",
+            "description": " A free software community dedicated to creating an open and user-friendly computing experience.\n"
+        },
+        {
+            "sub_content": ".NET\n"
+        },
+        {
+            "sub_content": "Core\n"
+        },
+        {
+            "sub_content": "Roslyn ",
+            "description": " Open-source compilers and code analysis APIs for C# and VB.NET languages.\n"
+        },
+        {
+            "sub_content": "Amazon Alexa ",
+            "description": " Virtual home assistant.\n"
+        },
+        {
+            "sub_content": "DigitalOcean ",
+            "description": " Cloud computing platform designed for developers.\n"
+        },
+        {
+            "sub_content": "Flutter ",
+            "description": " Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.\n"
+        },
+        {
+            "sub_content": "Home Assistant ",
+            "description": " Open source home automation that puts local control and privacy first.\n"
+        },
+        {
+            "sub_content": "IBM Cloud ",
+            "description": " Cloud platform for developers and companies.\n"
+        },
+        {
+            "sub_content": "Firebase ",
+            "description": " App development platform built on Google Cloud Platform.\n"
+        },
+        {
+            "sub_content": "Robot Operating System 2.0 ",
+            "description": " Set of software libraries and tools that help you build robot apps.\n"
+        },
+        {
+            "sub_content": "Adafruit IO ",
+            "description": " Visualize and store data from any device.\n"
+        },
+        {
+            "sub_content": "Cloudflare ",
+            "description": " CDN, DNS, DDoS protection, and security for your site.\n"
+        },
+        {
+            "sub_content": "Actions on Google ",
+            "description": " Developer platform for Google Assistant.\n"
+        },
+        {
+            "sub_content": "ESP ",
+            "description": " Low-cost microcontrollers with WiFi and broad IoT applications.\n"
+        },
+        {
+            "sub_content": "Deno ",
+            "description": " A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.\n"
+        },
+        {
+            "sub_content": "DOS ",
+            "description": " Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.\n"
+        },
+        {
+            "sub_content": "Nix ",
+            "description": " Package manager for Linux and other Unix systems that makes package management reliable and reproducible.\n"
+        },
+        {
+            "sub_content": "Integration ",
+            "description": " Linking together different IT systems (components) to functionally cooperate as a whole.\n"
+        },
+        {
+            "sub_content": "Node",
+            "description": "RED - A programming tool for wiring together hardware devices, APIs, and online services.\n"
+        },
+        {
+            "sub_content": "Low Code ",
+            "description": " Allowing business professionals to address their needs on their own with little to no coding skills.\n"
+        },
+        {
+            "sub_content": "Capacitor ",
+            "description": " Cross-platform open source runtime for building Web Native apps.\n"
+        },
+        {
+            "sub_content": "ArcGIS Developer ",
+            "description": " Mapping and location analysis platform for developers.\n"
+        }
+    ],
+    "Programming Languages": [
+        {
+            "sub_content": "JavaScript\n"
+        },
+        {
+            "sub_content": "Promises\n"
+        },
+        {
+            "sub_content": "Standard Style ",
+            "description": " Style guide and linter.\n"
+        },
+        {
+            "sub_content": "Must Watch Talks\n"
+        },
+        {
+            "sub_content": "Tips\n"
+        },
+        {
+            "sub_content": "Network Layer\n"
+        },
+        {
+            "sub_content": "Micro npm Packages\n"
+        },
+        {
+            "sub_content": "Mad Science npm Packages ",
+            "description": " Impossible sounding projects that exist.\n"
+        },
+        {
+            "sub_content": "Maintenance Modules ",
+            "description": " For npm packages.\n"
+        },
+        {
+            "sub_content": "npm ",
+            "description": " Package manager.\n"
+        },
+        {
+            "sub_content": "AVA ",
+            "description": " Test runner.\n"
+        },
+        {
+            "sub_content": "ESLint ",
+            "description": " Linter.\n"
+        },
+        {
+            "sub_content": "Functional Programming\n"
+        },
+        {
+            "sub_content": "Observables\n"
+        },
+        {
+            "sub_content": "npm scripts ",
+            "description": " Task runner.\n"
+        },
+        {
+            "sub_content": "30 Seconds of Code ",
+            "description": " Code snippets you can understand in 30 seconds.\n"
+        },
+        {
+            "sub_content": "Ponyfills ",
+            "description": " Like polyfills but without overriding native APIs.\n"
+        },
+        {
+            "sub_content": "Swift ",
+            "description": " Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.\n"
+        },
+        {
+            "sub_content": "Education\n"
+        },
+        {
+            "sub_content": "Playgrounds\n"
+        },
+        {
+            "sub_content": "Python ",
+            "description": " General-purpose programming language designed for readability.\n"
+        },
+        {
+            "sub_content": "Asyncio ",
+            "description": " Asynchronous I/O in Python 3.\n"
+        },
+        {
+            "sub_content": "Scientific Audio ",
+            "description": " Scientific research in audio/music.\n"
+        },
+        {
+            "sub_content": "CircuitPython ",
+            "description": " A version of Python for microcontrollers.\n"
+        },
+        {
+            "sub_content": "Data Science ",
+            "description": " Data analysis and machine learning.\n"
+        },
+        {
+            "sub_content": "Typing ",
+            "description": " Optional static typing for Python.\n"
+        },
+        {
+            "sub_content": "MicroPython ",
+            "description": " A lean and efficient implementation of Python 3 for microcontrollers.\n"
+        },
+        {
+            "sub_content": "Rust\n"
+        },
+        {
+            "sub_content": "Haskell\n"
+        },
+        {
+            "sub_content": "PureScript\n"
+        },
+        {
+            "sub_content": "Go\n"
+        },
+        {
+            "sub_content": "Scala\n"
+        },
+        {
+            "sub_content": "Scala Native ",
+            "description": " Optimizing ahead-of-time compiler for Scala based on LLVM.\n"
+        },
+        {
+            "sub_content": "Ruby\n"
+        },
+        {
+            "sub_content": "Clojure\n"
+        },
+        {
+            "sub_content": "ClojureScript\n"
+        },
+        {
+            "sub_content": "Elixir\n"
+        },
+        {
+            "sub_content": "Elm\n"
+        },
+        {
+            "sub_content": "Erlang\n"
+        },
+        {
+            "sub_content": "Julia ",
+            "description": " High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.\n"
+        },
+        {
+            "sub_content": "Lua\n"
+        },
+        {
+            "sub_content": "C\n"
+        },
+        {
+            "sub_content": "C/C++ ",
+            "description": " General-purpose language with a bias toward system programming and embedded, resource-constrained software.\n"
+        },
+        {
+            "sub_content": "R ",
+            "description": " Functional programming language and environment for statistical computing and graphics.\n"
+        },
+        {
+            "sub_content": "Learning\n"
+        },
+        {
+            "sub_content": "D\n"
+        },
+        {
+            "sub_content": "Common Lisp ",
+            "description": " Powerful dynamic multiparadigm language that facilitates iterative and interactive development.\n"
+        },
+        {
+            "sub_content": "Learning\n"
+        },
+        {
+            "sub_content": "Perl\n"
+        },
+        {
+            "sub_content": "Groovy\n"
+        },
+        {
+            "sub_content": "Dart\n"
+        },
+        {
+            "sub_content": "Java ",
+            "description": " Popular secure object-oriented language designed for flexibility to \"write once, run anywhere\".\n"
+        },
+        {
+            "sub_content": "RxJava\n"
+        },
+        {
+            "sub_content": "Kotlin\n"
+        },
+        {
+            "sub_content": "OCaml\n"
+        },
+        {
+            "sub_content": "ColdFusion\n"
+        },
+        {
+            "sub_content": "Fortran\n"
+        },
+        {
+            "sub_content": "PHP ",
+            "description": " Server-side scripting language.\n"
+        },
+        {
+            "sub_content": "Composer ",
+            "description": " Package manager.\n"
+        },
+        {
+            "sub_content": "Pascal\n"
+        },
+        {
+            "sub_content": "AutoHotkey\n"
+        },
+        {
+            "sub_content": "AutoIt\n"
+        },
+        {
+            "sub_content": "Crystal\n"
+        },
+        {
+            "sub_content": "Frege ",
+            "description": " Haskell for the JVM.\n"
+        },
+        {
+            "sub_content": "CMake ",
+            "description": " Build, test, and package software.\n"
+        },
+        {
+            "sub_content": "ActionScript 3 ",
+            "description": " Object-oriented language targeting Adobe AIR.\n"
+        },
+        {
+            "sub_content": "Eta ",
+            "description": " Functional programming language for the JVM.\n"
+        },
+        {
+            "sub_content": "Idris ",
+            "description": " General purpose pure functional programming language with dependent types influenced by Haskell and ML.\n"
+        },
+        {
+            "sub_content": "Ada/SPARK ",
+            "description": " Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.\n"
+        },
+        {
+            "sub_content": "Q# ",
+            "description": " Domain-specific programming language used for expressing quantum algorithms.\n"
+        },
+        {
+            "sub_content": "Imba ",
+            "description": " Programming language inspired by Ruby and Python and compiles to performant JavaScript.\n"
+        },
+        {
+            "sub_content": "Vala ",
+            "description": " Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.\n"
+        },
+        {
+            "sub_content": "Coq ",
+            "description": " Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.\n"
+        },
+        {
+            "sub_content": "V ",
+            "description": " Simple, fast, safe, compiled language for developing maintainable software.\n"
+        },
+        {
+            "sub_content": "Zig ",
+            "description": " General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.\n"
+        }
+    ],
+    "Front End Development": [
+        {
+            "sub_content": "ES6 Tools\n"
+        },
+        {
+            "sub_content": "Web Performance Optimization\n"
+        },
+        {
+            "sub_content": "Web Tools\n"
+        },
+        {
+            "sub_content": "CSS ",
+            "description": " Style sheet language that specifies how HTML elements are displayed on screen.\n"
+        },
+        {
+            "sub_content": "Critical",
+            "description": "Path Tools\n"
+        },
+        {
+            "sub_content": "Scalability\n"
+        },
+        {
+            "sub_content": "Must",
+            "description": "Watch Talks\n"
+        },
+        {
+            "sub_content": "Protips\n"
+        },
+        {
+            "sub_content": "Frameworks\n"
+        },
+        {
+            "sub_content": "React ",
+            "description": " JavaScript library for building user interfaces.\n"
+        },
+        {
+            "sub_content": "Relay ",
+            "description": " Framework for building data-driven React apps.\n"
+        },
+        {
+            "sub_content": "React Hooks ",
+            "description": " Lets you use state and other React features without writing a class.\n"
+        },
+        {
+            "sub_content": "Web Components\n"
+        },
+        {
+            "sub_content": "Polymer ",
+            "description": " JavaScript library to develop Web Components.\n"
+        },
+        {
+            "sub_content": "Angular ",
+            "description": " App framework.\n"
+        },
+        {
+            "sub_content": "Backbone ",
+            "description": " App framework.\n"
+        },
+        {
+            "sub_content": "HTML5 ",
+            "description": " Markup language used for websites & web apps.\n"
+        },
+        {
+            "sub_content": "SVG ",
+            "description": " XML-based vector image format.\n"
+        },
+        {
+            "sub_content": "Canvas\n"
+        },
+        {
+            "sub_content": "KnockoutJS ",
+            "description": " JavaScript library.\n"
+        },
+        {
+            "sub_content": "Dojo Toolkit ",
+            "description": " JavaScript toolkit.\n"
+        },
+        {
+            "sub_content": "Inspiration\n"
+        },
+        {
+            "sub_content": "Ember ",
+            "description": " App framework.\n"
+        },
+        {
+            "sub_content": "Android UI\n"
+        },
+        {
+            "sub_content": "iOS UI\n"
+        },
+        {
+            "sub_content": "Meteor\n"
+        },
+        {
+            "sub_content": "BEM\n"
+        },
+        {
+            "sub_content": "Flexbox\n"
+        },
+        {
+            "sub_content": "Web Typography\n"
+        },
+        {
+            "sub_content": "Web Accessibility\n"
+        },
+        {
+            "sub_content": "Material Design\n"
+        },
+        {
+            "sub_content": "D3 ",
+            "description": " Library for producing dynamic, interactive data visualizations.\n"
+        },
+        {
+            "sub_content": "Emails\n"
+        },
+        {
+            "sub_content": "jQuery ",
+            "description": " Easy to use JavaScript library for DOM manipulation.\n"
+        },
+        {
+            "sub_content": "Tips\n"
+        },
+        {
+            "sub_content": "Web Audio\n"
+        },
+        {
+            "sub_content": "Offline",
+            "description": "First\n"
+        },
+        {
+            "sub_content": "Static Website Services\n"
+        },
+        {
+            "sub_content": "Cycle.js ",
+            "description": " Functional and reactive JavaScript framework.\n"
+        },
+        {
+            "sub_content": "Text Editing\n"
+        },
+        {
+            "sub_content": "Motion UI Design\n"
+        },
+        {
+            "sub_content": "Vue.js ",
+            "description": " App framework.\n"
+        },
+        {
+            "sub_content": "Marionette.js ",
+            "description": " App framework.\n"
+        },
+        {
+            "sub_content": "Aurelia ",
+            "description": " App framework.\n"
+        },
+        {
+            "sub_content": "Charting\n"
+        },
+        {
+            "sub_content": "Ionic Framework 2\n"
+        },
+        {
+            "sub_content": "Chrome DevTools\n"
+        },
+        {
+            "sub_content": "PostCSS ",
+            "description": " CSS tool.\n"
+        },
+        {
+            "sub_content": "Draft.js ",
+            "description": " Rich text editor framework for React.\n"
+        },
+        {
+            "sub_content": "Service Workers\n"
+        },
+        {
+            "sub_content": "Progressive Web Apps\n"
+        },
+        {
+            "sub_content": "choo ",
+            "description": " App framework.\n"
+        },
+        {
+            "sub_content": "Redux ",
+            "description": " State container for JavaScript apps.\n"
+        },
+        {
+            "sub_content": "Browserify ",
+            "description": " Module bundler.\n"
+        },
+        {
+            "sub_content": "Sass ",
+            "description": " CSS preprocessor.\n"
+        },
+        {
+            "sub_content": "Ant Design ",
+            "description": " Enterprise-class UI design language.\n"
+        },
+        {
+            "sub_content": "Less ",
+            "description": " CSS preprocessor.\n"
+        },
+        {
+            "sub_content": "WebGL ",
+            "description": " JavaScript API for rendering 3D graphics.\n"
+        },
+        {
+            "sub_content": "Preact ",
+            "description": " App framework.\n"
+        },
+        {
+            "sub_content": "Progressive Enhancement\n"
+        },
+        {
+            "sub_content": "Next.js ",
+            "description": " Framework for server-rendered React apps.\n"
+        },
+        {
+            "sub_content": "lit ",
+            "description": " Library for building web components with a declarative template system.\n"
+        },
+        {
+            "sub_content": "JAMstack ",
+            "description": " Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.\n"
+        },
+        {
+            "sub_content": "WordPress",
+            "description": "Gatsby - Web development technology stack with WordPress as a back end and Gatsby as a front end.\n"
+        },
+        {
+            "sub_content": "Mobile Web Development ",
+            "description": " Creating a great mobile web experience.\n"
+        },
+        {
+            "sub_content": "Storybook ",
+            "description": " Development environment for UI components.\n"
+        },
+        {
+            "sub_content": "Blazor ",
+            "description": " .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.\n"
+        },
+        {
+            "sub_content": "PageSpeed Metrics ",
+            "description": " Metrics to help understand page speed and user experience.\n"
+        },
+        {
+            "sub_content": "Tailwind CSS ",
+            "description": " Utility-first CSS framework for rapid UI development.\n"
+        },
+        {
+            "sub_content": "Seed ",
+            "description": " Rust framework for creating web apps running in WebAssembly.\n"
+        },
+        {
+            "sub_content": "Web Performance Budget ",
+            "description": " Techniques to ensure certain performance metrics for a website.\n"
+        },
+        {
+            "sub_content": "Web Animation ",
+            "description": " Animations in the browser with JavaScript, CSS, SVG, etc.\n"
+        },
+        {
+            "sub_content": "Yew ",
+            "description": " Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.\n"
+        },
+        {
+            "sub_content": "Material UI ",
+            "description": " Material Design React components for faster and easier web development.\n"
+        },
+        {
+            "sub_content": "Building Blocks for Web Apps ",
+            "description": " Standalone features to be integrated into web apps.\n"
+        },
+        {
+            "sub_content": "Svelte ",
+            "description": " App framework.\n"
+        },
+        {
+            "sub_content": "Design systems ",
+            "description": " Collection of reusable components, guided by rules that ensure consistency and speed.\n"
+        },
+        {
+            "sub_content": "Inertia.js ",
+            "description": " Make single-page apps without building an API.\n"
+        },
+        {
+            "sub_content": "MDBootstrap ",
+            "description": " Templates, layouts, components, and widgets to rapidly build websites.\n"
+        }
+    ],
+    "Back End Development": [
+        {
+            "sub_content": "Flask ",
+            "description": " Python framework.\n"
+        },
+        {
+            "sub_content": "Docker\n"
+        },
+        {
+            "sub_content": "Vagrant ",
+            "description": " Automation virtual machine environment.\n"
+        },
+        {
+            "sub_content": "Pyramid ",
+            "description": " Python framework.\n"
+        },
+        {
+            "sub_content": "Play1 Framework\n"
+        },
+        {
+            "sub_content": "CakePHP ",
+            "description": " PHP framework.\n"
+        },
+        {
+            "sub_content": "Symfony ",
+            "description": " PHP framework.\n"
+        },
+        {
+            "sub_content": "Education\n"
+        },
+        {
+            "sub_content": "Laravel ",
+            "description": " PHP framework.\n"
+        },
+        {
+            "sub_content": "Education\n"
+        },
+        {
+            "sub_content": "TALL Stack ",
+            "description": " Full-stack development solution featuring libraries built by the Laravel community.\n"
+        },
+        {
+            "sub_content": "Rails ",
+            "description": " Web app framework for Ruby.\n"
+        },
+        {
+            "sub_content": "Gems ",
+            "description": " Packages.\n"
+        },
+        {
+            "sub_content": "Phalcon ",
+            "description": " PHP framework.\n"
+        },
+        {
+            "sub_content": "Useful .htaccess Snippets\n"
+        },
+        {
+            "sub_content": "nginx ",
+            "description": " Web server.\n"
+        },
+        {
+            "sub_content": "Dropwizard ",
+            "description": " Java framework.\n"
+        },
+        {
+            "sub_content": "Kubernetes ",
+            "description": " Open-source platform that automates Linux container operations.\n"
+        },
+        {
+            "sub_content": "Lumen ",
+            "description": " PHP micro-framework.\n"
+        },
+        {
+            "sub_content": "Serverless Framework ",
+            "description": " Serverless computing and serverless architectures.\n"
+        },
+        {
+            "sub_content": "Apache Wicket ",
+            "description": " Java web app framework.\n"
+        },
+        {
+            "sub_content": "Vert.x ",
+            "description": " Toolkit for building reactive apps on the JVM.\n"
+        },
+        {
+            "sub_content": "Terraform ",
+            "description": " Tool for building, changing, and versioning infrastructure.\n"
+        },
+        {
+            "sub_content": "Vapor ",
+            "description": " Server-side development in Swift.\n"
+        },
+        {
+            "sub_content": "Dash ",
+            "description": " Python web app framework.\n"
+        },
+        {
+            "sub_content": "FastAPI ",
+            "description": " Python web app framework.\n"
+        },
+        {
+            "sub_content": "CDK ",
+            "description": " Open-source software development framework for defining cloud infrastructure in code.\n"
+        },
+        {
+            "sub_content": "IAM ",
+            "description": " User accounts, authentication and authorization.\n"
+        },
+        {
+            "sub_content": "Slim ",
+            "description": " PHP framework.\n"
+        },
+        {
+            "sub_content": "Fiber ",
+            "description": " Web framework built on top of Fasthttp, the fastest HTTP engine for Go.\n"
+        }
+    ],
+    "Computer Science": [
+        {
+            "sub_content": "University Courses\n"
+        },
+        {
+            "sub_content": "Data Science\n"
+        },
+        {
+            "sub_content": "Tutorials\n"
+        },
+        {
+            "sub_content": "Machine Learning\n"
+        },
+        {
+            "sub_content": "Tutorials\n"
+        },
+        {
+            "sub_content": "ML with Ruby ",
+            "description": " Learning, implementing, and applying Machine Learning using Ruby.\n"
+        },
+        {
+            "sub_content": "Core ML Models ",
+            "description": " Models for Apple's machine learning framework.\n"
+        },
+        {
+            "sub_content": "H2O ",
+            "description": " Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.\n"
+        },
+        {
+            "sub_content": "Software Engineering for Machine Learning ",
+            "description": " From experiment to production-level machine learning.\n"
+        },
+        {
+            "sub_content": "AI in Finance ",
+            "description": " Solving problems in finance with machine learning.\n"
+        },
+        {
+            "sub_content": "JAX ",
+            "description": " Automatic differentiation and XLA compilation brought together for high-performance machine learning research.\n"
+        },
+        {
+            "sub_content": "XAI ",
+            "description": " Providing insight, explanations, and interpretability to machine learning methods.\n"
+        },
+        {
+            "sub_content": "Speech and Natural Language Processing\n"
+        },
+        {
+            "sub_content": "Spanish\n"
+        },
+        {
+            "sub_content": "NLP with Ruby\n"
+        },
+        {
+            "sub_content": "Question Answering ",
+            "description": " The science of asking and answering in natural language with a machine.\n"
+        },
+        {
+            "sub_content": "Natural Language Generation ",
+            "description": " Generation of text used in data to text, conversational agents, and narrative generation applications.\n"
+        },
+        {
+            "sub_content": "Linguistics\n"
+        },
+        {
+            "sub_content": "Cryptography\n"
+        },
+        {
+            "sub_content": "Papers ",
+            "description": " Theory basics for using cryptography by non-cryptographers.\n"
+        },
+        {
+            "sub_content": "Computer Vision\n"
+        },
+        {
+            "sub_content": "Deep Learning ",
+            "description": " Neural networks.\n"
+        },
+        {
+            "sub_content": "TensorFlow ",
+            "description": " Library for machine intelligence.\n"
+        },
+        {
+            "sub_content": "TensorFlow.js ",
+            "description": " WebGL-accelerated machine learning JavaScript library for training and deploying models.\n"
+        },
+        {
+            "sub_content": "TensorFlow Lite ",
+            "description": " Framework that optimizes TensorFlow models for on-device machine learning.\n"
+        },
+        {
+            "sub_content": "Papers ",
+            "description": " The most cited deep learning papers.\n"
+        },
+        {
+            "sub_content": "Education\n"
+        },
+        {
+            "sub_content": "Deep Vision\n"
+        },
+        {
+            "sub_content": "Open Source Society University\n"
+        },
+        {
+            "sub_content": "Functional Programming\n"
+        },
+        {
+            "sub_content": "Empirical Software Engineering ",
+            "description": " Evidence-based research on software systems.\n"
+        },
+        {
+            "sub_content": "Static Analysis & Code Quality\n"
+        },
+        {
+            "sub_content": "Information Retrieval ",
+            "description": " Learn to develop your own search engine.\n"
+        },
+        {
+            "sub_content": "Quantum Computing ",
+            "description": " Computing which utilizes quantum mechanics and qubits on quantum computers.\n"
+        },
+        {
+            "sub_content": "Theoretical Computer Science ",
+            "description": " The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.\n"
+        },
+        {
+            "sub_content": "Conversational AI ",
+            "description": " Build awesome chatbots and digital assistants.\n"
+        }
+    ],
+    "Big Data": [
+        {
+            "sub_content": "Big Data.\n"
+        },
+        {
+            "sub_content": "Public Datasets\n"
+        },
+        {
+            "sub_content": "Hadoop ",
+            "description": " Framework for distributed storage and processing of very large data sets.\n"
+        },
+        {
+            "sub_content": "Data Engineering\n"
+        },
+        {
+            "sub_content": "Streaming\n"
+        },
+        {
+            "sub_content": "Apache Spark ",
+            "description": " Unified engine for large-scale data processing.\n"
+        },
+        {
+            "sub_content": "Qlik ",
+            "description": " Business intelligence platform for data visualization, analytics, and reporting apps.\n"
+        },
+        {
+            "sub_content": "Splunk ",
+            "description": " Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.\n"
+        }
+    ],
+    "Theory": [
+        {
+            "sub_content": "Papers We Love\n"
+        },
+        {
+            "sub_content": "Talks\n"
+        },
+        {
+            "sub_content": "Algorithms\n"
+        },
+        {
+            "sub_content": "Education ",
+            "description": " Learning and practicing.\n"
+        },
+        {
+            "sub_content": "Algorithm Visualizations\n"
+        },
+        {
+            "sub_content": "Artificial Intelligence\n"
+        },
+        {
+            "sub_content": "Search Engine Optimization\n"
+        },
+        {
+            "sub_content": "Competitive Programming\n"
+        },
+        {
+            "sub_content": "Math\n"
+        },
+        {
+            "sub_content": "Recursion Schemes ",
+            "description": " Traversing nested data structures.\n"
+        },
+        {
+            "sub_content": "Audit Algorithms ",
+            "description": " Algorithmic audits of algorithms.\n"
+        },
+        {
+            "sub_content": "AGI & CoCoSci ",
+            "description": " The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).\n"
+        }
+    ],
+    "Books": [
+        {
+            "sub_content": "Free Programming Books\n"
+        },
+        {
+            "sub_content": "Go Books\n"
+        },
+        {
+            "sub_content": "R Books\n"
+        },
+        {
+            "sub_content": "Mind Expanding Books\n"
+        },
+        {
+            "sub_content": "Book Authoring\n"
+        },
+        {
+            "sub_content": "Elixir Books\n"
+        }
+    ],
+    "Editors": [
+        {
+            "sub_content": "Sublime Text\n"
+        },
+        {
+            "sub_content": "Vim\n"
+        },
+        {
+            "sub_content": "Neovim ",
+            "description": " Vim-fork focused on extensibility and usability.\n"
+        },
+        {
+            "sub_content": "Emacs\n"
+        },
+        {
+            "sub_content": "Atom ",
+            "description": " Open-source and hackable text editor.\n"
+        },
+        {
+            "sub_content": "Visual Studio Code ",
+            "description": " Cross-platform open-source text editor.\n"
+        }
+    ],
+    "Gaming": [
+        {
+            "sub_content": "Game Development\n"
+        },
+        {
+            "sub_content": "Game Talks\n"
+        },
+        {
+            "sub_content": "Godot ",
+            "description": " Game engine.\n"
+        },
+        {
+            "sub_content": "Open Source Games\n"
+        },
+        {
+            "sub_content": "Unity ",
+            "description": " Game engine.\n"
+        },
+        {
+            "sub_content": "Chess\n"
+        },
+        {
+            "sub_content": "LÖVE ",
+            "description": " Game engine.\n"
+        },
+        {
+            "sub_content": "PICO 8 ",
+            "description": " Fantasy console.\n"
+        },
+        {
+            "sub_content": "Game Boy Development\n"
+        },
+        {
+            "sub_content": "Construct 2 ",
+            "description": " Game engine.\n"
+        },
+        {
+            "sub_content": "Gideros ",
+            "description": " Game engine.\n"
+        },
+        {
+            "sub_content": "Minecraft ",
+            "description": " Sandbox video game.\n"
+        },
+        {
+            "sub_content": "Game Datasets ",
+            "description": " Materials and datasets for Artificial Intelligence in games.\n"
+        },
+        {
+            "sub_content": "Haxe Game Development ",
+            "description": " A high-level strongly typed programming language used to produce cross-platform native code.\n"
+        },
+        {
+            "sub_content": "libGDX ",
+            "description": " Java game framework.\n"
+        },
+        {
+            "sub_content": "PlayCanvas ",
+            "description": " Game engine.\n"
+        },
+        {
+            "sub_content": "Game Remakes ",
+            "description": " Actively maintained open-source game remakes.\n"
+        },
+        {
+            "sub_content": "Flame ",
+            "description": " Game engine for Flutter.\n"
+        },
+        {
+            "sub_content": "Discord Communities ",
+            "description": " Chat with friends and communities.\n"
+        },
+        {
+            "sub_content": "CHIP 8 ",
+            "description": " Virtual computer game machine from the 70s.\n"
+        },
+        {
+            "sub_content": "Games of Coding ",
+            "description": " Learn a programming language by making games.\n"
+        },
+        {
+            "sub_content": "Esports ",
+            "description": " Video games played as a sport.\n"
+        }
+    ],
+    "Development Environment": [
+        {
+            "sub_content": "Quick Look Plugins ",
+            "description": " For macOS.\n"
+        },
+        {
+            "sub_content": "Dev Env\n"
+        },
+        {
+            "sub_content": "Dotfiles\n"
+        },
+        {
+            "sub_content": "Shell\n"
+        },
+        {
+            "sub_content": "Fish ",
+            "description": " User-friendly shell.\n"
+        },
+        {
+            "sub_content": "Command",
+            "description": "Line Apps\n"
+        },
+        {
+            "sub_content": "ZSH Plugins\n"
+        },
+        {
+            "sub_content": "GitHub ",
+            "description": " Hosting service for Git repositories.\n"
+        },
+        {
+            "sub_content": "Browser Extensions\n"
+        },
+        {
+            "sub_content": "Cheat Sheet\n"
+        },
+        {
+            "sub_content": "Pinned Gists ",
+            "description": " Dynamic pinned gists for your GitHub profile.\n"
+        },
+        {
+            "sub_content": "Git Cheat Sheet & Git Flow\n"
+        },
+        {
+            "sub_content": "Git Tips\n"
+        },
+        {
+            "sub_content": "Git Add ons ",
+            "description": " Enhance the git CLI.\n"
+        },
+        {
+            "sub_content": "Git Hooks ",
+            "description": " Scripts for automating tasks during git workflows.\n"
+        },
+        {
+            "sub_content": "SSH\n"
+        },
+        {
+            "sub_content": "FOSS for Developers\n"
+        },
+        {
+            "sub_content": "Hyper ",
+            "description": " Cross-platform terminal app built on web technologies.\n"
+        },
+        {
+            "sub_content": "PowerShell ",
+            "description": " Cross-platform object-oriented shell.\n"
+        },
+        {
+            "sub_content": "Alfred Workflows ",
+            "description": " Productivity app for macOS.\n"
+        },
+        {
+            "sub_content": "Terminals Are Sexy\n"
+        },
+        {
+            "sub_content": "GitHub Actions ",
+            "description": " Create tasks to automate your workflow and share them with others on GitHub.\n"
+        }
+    ],
+    "Entertainment": [
+        {
+            "sub_content": "Science Fiction ",
+            "description": " Scifi.\n"
+        },
+        {
+            "sub_content": "Fantasy\n"
+        },
+        {
+            "sub_content": "Podcasts\n"
+        },
+        {
+            "sub_content": "Email Newsletters\n"
+        },
+        {
+            "sub_content": "IT Quotes\n"
+        }
+    ],
+    "Databases": [
+        {
+            "sub_content": "Database\n"
+        },
+        {
+            "sub_content": "MySQL\n"
+        },
+        {
+            "sub_content": "SQLAlchemy\n"
+        },
+        {
+            "sub_content": "InfluxDB\n"
+        },
+        {
+            "sub_content": "Neo4j\n"
+        },
+        {
+            "sub_content": "MongoDB ",
+            "description": " NoSQL database.\n"
+        },
+        {
+            "sub_content": "RethinkDB\n"
+        },
+        {
+            "sub_content": "TinkerPop ",
+            "description": " Graph computing framework.\n"
+        },
+        {
+            "sub_content": "PostgreSQL ",
+            "description": " Object-relational database.\n"
+        },
+        {
+            "sub_content": "CouchDB ",
+            "description": " Document-oriented NoSQL database.\n"
+        },
+        {
+            "sub_content": "HBase ",
+            "description": " Distributed, scalable, big data store.\n"
+        },
+        {
+            "sub_content": "NoSQL Guides ",
+            "description": " Help on using non-relational, distributed, open-source, and horizontally scalable databases.\n"
+        },
+        {
+            "sub_content": "Database Tools ",
+            "description": " Everything that makes working with databases easier.\n"
+        },
+        {
+            "sub_content": "TypeDB ",
+            "description": " Logical database to organize large and complex networks of data as one body of knowledge.\n"
+        },
+        {
+            "sub_content": "Cassandra ",
+            "description": " Open-source, distributed, wide column store, NoSQL database management system.\n"
+        },
+        {
+            "sub_content": "TDengine ",
+            "description": " An open-source time-series database with high-performance, scalability, and SQL support.\n"
+        }
+    ],
+    "Media": [
+        {
+            "sub_content": "Creative Commons Media\n"
+        },
+        {
+            "sub_content": "Fonts\n"
+        },
+        {
+            "sub_content": "Codeface ",
+            "description": " Text editor fonts.\n"
+        },
+        {
+            "sub_content": "Stock Resources\n"
+        },
+        {
+            "sub_content": "GIF ",
+            "description": " Image format known for animated images.\n"
+        },
+        {
+            "sub_content": "Music\n"
+        },
+        {
+            "sub_content": "Open Source Documents\n"
+        },
+        {
+            "sub_content": "Audio Visualization\n"
+        },
+        {
+            "sub_content": "Broadcasting\n"
+        },
+        {
+            "sub_content": "Pixel Art ",
+            "description": " Pixel-level digital art.\n"
+        },
+        {
+            "sub_content": "FFmpeg ",
+            "description": " Cross-platform solution to record, convert and stream audio and video.\n"
+        },
+        {
+            "sub_content": "Icons ",
+            "description": " Downloadable SVG/PNG/font icon projects.\n"
+        },
+        {
+            "sub_content": "Audiovisual ",
+            "description": " Lighting, audio and video in professional environments.\n"
+        },
+        {
+            "sub_content": "VLC ",
+            "description": " Cross-platform media player software and streaming server.\n"
+        }
+    ],
+    "Learn": [
+        {
+            "sub_content": "CLI Workshoppers ",
+            "description": " Interactive tutorials.\n"
+        },
+        {
+            "sub_content": "Learn to Program\n"
+        },
+        {
+            "sub_content": "Speaking\n"
+        },
+        {
+            "sub_content": "Tech Videos\n"
+        },
+        {
+            "sub_content": "Dive into Machine Learning\n"
+        },
+        {
+            "sub_content": "Computer History\n"
+        },
+        {
+            "sub_content": "Programming for Kids\n"
+        },
+        {
+            "sub_content": "Educational Games ",
+            "description": " Learn while playing.\n"
+        },
+        {
+            "sub_content": "JavaScript Learning\n"
+        },
+        {
+            "sub_content": "CSS Learning ",
+            "description": " Mainly about CSS – the language and the modules.\n"
+        },
+        {
+            "sub_content": "Product Management ",
+            "description": " Learn how to be a better product manager.\n"
+        },
+        {
+            "sub_content": "Roadmaps ",
+            "description": " Gives you a clear route to improve your knowledge and skills.\n"
+        },
+        {
+            "sub_content": "YouTubers ",
+            "description": " Watch video tutorials from YouTubers that teach you about technology.\n"
+        }
+    ],
+    "Security": [
+        {
+            "sub_content": "Application Security\n"
+        },
+        {
+            "sub_content": "CTF ",
+            "description": " Capture The Flag.\n"
+        },
+        {
+            "sub_content": "Cyber Security University ",
+            "description": " Free educational resources that focus on learning by doing.\n"
+        },
+        {
+            "sub_content": "Malware Analysis\n"
+        },
+        {
+            "sub_content": "Android Security\n"
+        },
+        {
+            "sub_content": "Hacking\n"
+        },
+        {
+            "sub_content": "Hacking Spots\n"
+        },
+        {
+            "sub_content": "Honeypots ",
+            "description": " Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.\n"
+        },
+        {
+            "sub_content": "Incident Response\n"
+        },
+        {
+            "sub_content": "Vehicle Security and Car Hacking\n"
+        },
+        {
+            "sub_content": "Web Security ",
+            "description": " Security of web apps & services.\n"
+        },
+        {
+            "sub_content": "Lockpicking ",
+            "description": " The art of unlocking a lock by manipulating its components without the key.\n"
+        },
+        {
+            "sub_content": "Cybersecurity Blue Team ",
+            "description": " Groups of individuals who identify security flaws in information technology systems.\n"
+        },
+        {
+            "sub_content": "Fuzzing ",
+            "description": " Automated software testing technique that involves feeding pseudo-randomly generated input data.\n"
+        },
+        {
+            "sub_content": "Embedded and IoT Security\n"
+        },
+        {
+            "sub_content": "GDPR ",
+            "description": " Regulation on data protection and privacy for all individuals within EU.\n"
+        },
+        {
+            "sub_content": "DevSecOps ",
+            "description": " Integration of security practices into DevOps.\n"
+        },
+        {
+            "sub_content": "Executable Packing ",
+            "description": " Packing and unpacking executable formats.\n"
+        },
+        {
+            "sub_content": "Malware Persistence ",
+            "description": " Techniques that adversaries use to keep access to systems across restarts.\n"
+        },
+        {
+            "sub_content": "EVM Security ",
+            "description": " Understanding the Ethereum Virtual Machine security ecosystem.\n"
+        }
+    ],
+    "Content Management Systems": [
+        {
+            "sub_content": "Umbraco\n"
+        },
+        {
+            "sub_content": "Refinery CMS ",
+            "description": " Ruby on Rails CMS.\n"
+        },
+        {
+            "sub_content": "Wagtail ",
+            "description": " Django CMS focused on flexibility and user experience.\n"
+        },
+        {
+            "sub_content": "Textpattern ",
+            "description": " Lightweight PHP-based CMS.\n"
+        },
+        {
+            "sub_content": "Drupal ",
+            "description": " Extensible PHP-based CMS.\n"
+        },
+        {
+            "sub_content": "Craft CMS ",
+            "description": " Content-first CMS.\n"
+        },
+        {
+            "sub_content": "Sitecore ",
+            "description": " .NET digital marketing platform that combines CMS with tools for managing multiple websites.\n"
+        },
+        {
+            "sub_content": "Silverstripe CMS ",
+            "description": " PHP MVC framework that serves as a classic or headless CMS.\n"
+        },
+        {
+            "sub_content": "Directus ",
+            "description": " A real-time API and app dashboard for managing SQL database content.\n"
+        },
+        {
+            "sub_content": "Plone ",
+            "description": " Open source Python CMS.\n"
+        }
+    ],
+    "Hardware": [
+        {
+            "sub_content": "Robotics\n"
+        },
+        {
+            "sub_content": "Internet of Things\n"
+        },
+        {
+            "sub_content": "Electronics ",
+            "description": " For electronic engineers and hobbyists.\n"
+        },
+        {
+            "sub_content": "Bluetooth Beacons\n"
+        },
+        {
+            "sub_content": "Electric Guitar Specifications ",
+            "description": " Checklist for building your own electric guitar.\n"
+        },
+        {
+            "sub_content": "Plotters ",
+            "description": " Computer-controlled drawing machines and other visual art robots.\n"
+        },
+        {
+            "sub_content": "Robotic Tooling ",
+            "description": " Free and open tools for professional robotic development.\n"
+        },
+        {
+            "sub_content": "LIDAR ",
+            "description": " Sensor for measuring distances by illuminating the target with laser light.\n"
+        },
+        {
+            "sub_content": "Open Hardware ",
+            "description": " Open-source hardware projects.\n"
+        }
+    ],
+    "Business": [
+        {
+            "sub_content": "Open Companies\n"
+        },
+        {
+            "sub_content": "Places to Post Your Startup\n"
+        },
+        {
+            "sub_content": "OKR Methodology ",
+            "description": " Goal setting & communication best practices.\n"
+        },
+        {
+            "sub_content": "Leading and Managing ",
+            "description": " Leading people and being a manager in a technology company/environment.\n"
+        },
+        {
+            "sub_content": "Indie ",
+            "description": " Independent developer businesses.\n"
+        },
+        {
+            "sub_content": "Tools of the Trade ",
+            "description": " Tools used by companies on Hacker News.\n"
+        },
+        {
+            "sub_content": "Clean Tech ",
+            "description": " Fighting climate change with technology.\n"
+        },
+        {
+            "sub_content": "Wardley Maps ",
+            "description": " Provides high situational awareness to help improve strategic planning and decision making.\n"
+        },
+        {
+            "sub_content": "Social Enterprise ",
+            "description": " Building an organization primarily focused on social impact that is at least partially self-funded.\n"
+        },
+        {
+            "sub_content": "Engineering Team Management ",
+            "description": " How to transition from software development to engineering management.\n"
+        },
+        {
+            "sub_content": "Developer",
+            "description": "First Products - Products that target developers as the user.\n"
+        },
+        {
+            "sub_content": "Billing ",
+            "description": " Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.\n"
+        }
+    ],
+    "Work": [
+        {
+            "sub_content": "Slack ",
+            "description": " Team collaboration.\n"
+        },
+        {
+            "sub_content": "Communities\n"
+        },
+        {
+            "sub_content": "Remote Jobs\n"
+        },
+        {
+            "sub_content": "Productivity\n"
+        },
+        {
+            "sub_content": "Niche Job Boards\n"
+        },
+        {
+            "sub_content": "Programming Interviews\n"
+        },
+        {
+            "sub_content": "Code Review ",
+            "description": " Reviewing code.\n"
+        },
+        {
+            "sub_content": "Creative Technology ",
+            "description": " Businesses & groups that specialize in combining computing, design, art, and user experience.\n"
+        },
+        {
+            "sub_content": "Internships ",
+            "description": " CV writing guides and companies that hire interns.\n"
+        }
+    ],
+    "Networking": [
+        {
+            "sub_content": "Software Defined Networking\n"
+        },
+        {
+            "sub_content": "Network Analysis\n"
+        },
+        {
+            "sub_content": "PCAPTools\n"
+        },
+        {
+            "sub_content": "Real Time Communications ",
+            "description": " Network protocols for near simultaneous exchange of media and data.\n"
+        },
+        {
+            "sub_content": "SNMP ",
+            "description": " A protocol for collecting, modifying, and organizing information about managed devices on IP networks.\n"
+        }
+    ],
+    "Decentralized Systems": [
+        {
+            "sub_content": "Bitcoin ",
+            "description": " Bitcoin services and tools for software developers.\n"
+        },
+        {
+            "sub_content": "Ripple ",
+            "description": " Open source distributed settlement network.\n"
+        },
+        {
+            "sub_content": "Non Financial Blockchain ",
+            "description": " Non-financial blockchain applications.\n"
+        },
+        {
+            "sub_content": "Mastodon ",
+            "description": " Open source decentralized microblogging network.\n"
+        },
+        {
+            "sub_content": "Ethereum ",
+            "description": " Distributed computing platform for smart contract development.\n"
+        },
+        {
+            "sub_content": "Blockchain AI ",
+            "description": " Blockchain projects for artificial intelligence and machine learning.\n"
+        },
+        {
+            "sub_content": "EOSIO ",
+            "description": " A decentralized operating system supporting industrial-scale apps.\n"
+        },
+        {
+            "sub_content": "Corda ",
+            "description": " Open source blockchain platform designed for business.\n"
+        },
+        {
+            "sub_content": "Waves ",
+            "description": " Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.\n"
+        },
+        {
+            "sub_content": "Substrate ",
+            "description": " Framework for writing scalable, upgradeable blockchains in Rust.\n"
+        },
+        {
+            "sub_content": "Golem ",
+            "description": " Open source peer-to-peer marketplace for computing resources.\n"
+        },
+        {
+            "sub_content": "Stacks ",
+            "description": " A smart contract platform secured by Bitcoin.\n"
+        },
+        {
+            "sub_content": "Algorand ",
+            "description": " An open-source, proof of stake blockchain and smart contract computing platform.\n"
+        }
+    ],
+    "Health and Social Science": [
+        {
+            "sub_content": "Biomedical Information Extraction ",
+            "description": " How to extract information from unstructured biomedical data and text.\n"
+        },
+        {
+            "sub_content": "Computational Neuroscience ",
+            "description": " A multidisciplinary science which uses computational approaches to study the nervous system.\n"
+        },
+        {
+            "sub_content": "Diversity ",
+            "description": " Creating a more inclusive and diverse tech community.\n"
+        },
+        {
+            "sub_content": "Digital History ",
+            "description": " Computer-aided scientific investigation of history.\n"
+        },
+        {
+            "sub_content": "Empathy in Engineering ",
+            "description": " Building and promoting more compassionate engineering cultures.\n"
+        },
+        {
+            "sub_content": "Healthcare ",
+            "description": " Open source healthcare software for facilities, providers, developers, policy experts, and researchers.\n"
+        },
+        {
+            "sub_content": "Humane Technology ",
+            "description": " Open source projects that help improve society.\n"
+        },
+        {
+            "sub_content": "Mental Health ",
+            "description": " Mental health awareness and self-care in the software industry.\n"
+        },
+        {
+            "sub_content": "Neuroscience ",
+            "description": " Study of the nervous system and brain.\n"
+        }
+    ],
+    "Events": [
+        {
+            "sub_content": "Creative Tech Events ",
+            "description": " Events around the globe for creative coding, tech, design, music, arts and cool stuff.\n"
+        },
+        {
+            "sub_content": "Events in Italy ",
+            "description": " Tech-related events in Italy.\n"
+        },
+        {
+            "sub_content": "Events in the Netherlands ",
+            "description": " Tech-related events in the Netherlands.\n"
+        }
+    ],
+    "Testing": [
+        {
+            "sub_content": "Testing ",
+            "description": " Software testing.\n"
+        },
+        {
+            "sub_content": "Visual Regression Testing ",
+            "description": " Ensures changes did not break the functionality or style.\n"
+        },
+        {
+            "sub_content": "Selenium ",
+            "description": " Open-source browser automation framework and ecosystem.\n"
+        },
+        {
+            "sub_content": "Appium ",
+            "description": " Test automation tool for apps.\n"
+        },
+        {
+            "sub_content": "TAP ",
+            "description": " Test Anything Protocol.\n"
+        },
+        {
+            "sub_content": "JMeter ",
+            "description": " Load testing and performance measurement tool.\n"
+        },
+        {
+            "sub_content": "k6 ",
+            "description": " Open-source, developer-centric performance monitoring and load testing solution.\n"
+        },
+        {
+            "sub_content": "Playwright ",
+            "description": " Node.js library to automate Chromium, Firefox and WebKit with a single API.\n"
+        },
+        {
+            "sub_content": "Quality Assurance Roadmap ",
+            "description": " How to start & build a career in software testing.\n"
+        },
+        {
+            "sub_content": "Gatling ",
+            "description": " Open-source load and performance testing framework based on Scala, Akka, and Netty.\n"
+        }
+    ],
+    "Miscellaneous": [
+        {
+            "sub_content": "Scientific Writing ",
+            "description": " Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.\n"
+        },
+        {
+            "sub_content": "JSON ",
+            "description": " Text based data interchange format.\n"
+        },
+        {
+            "sub_content": "GeoJSON\n"
+        },
+        {
+            "sub_content": "Datasets\n"
+        },
+        {
+            "sub_content": "CSV ",
+            "description": " A text file format that stores tabular data and uses a comma to separate values.\n"
+        },
+        {
+            "sub_content": "Discounts for Student Developers\n"
+        },
+        {
+            "sub_content": "Radio\n"
+        },
+        {
+            "sub_content": "Awesome ",
+            "description": " Recursion illustrated.\n"
+        },
+        {
+            "sub_content": "Analytics\n"
+        },
+        {
+            "sub_content": "REST\n"
+        },
+        {
+            "sub_content": "Continuous Integration and Continuous Delivery\n"
+        },
+        {
+            "sub_content": "Services Engineering\n"
+        },
+        {
+            "sub_content": "Free for Developers\n"
+        },
+        {
+            "sub_content": "Answers ",
+            "description": " Stack Overflow, Quora, etc.\n"
+        },
+        {
+            "sub_content": "Sketch ",
+            "description": " Design app for macOS.\n"
+        },
+        {
+            "sub_content": "Boilerplate Projects\n"
+        },
+        {
+            "sub_content": "Readme\n"
+        },
+        {
+            "sub_content": "Design and Development Guides\n"
+        },
+        {
+            "sub_content": "Software Engineering Blogs\n"
+        },
+        {
+            "sub_content": "Self Hosted\n"
+        },
+        {
+            "sub_content": "FOSS Production Apps\n"
+        },
+        {
+            "sub_content": "Gulp ",
+            "description": " Task runner.\n"
+        },
+        {
+            "sub_content": "AMA ",
+            "description": " Ask Me Anything.\n"
+        },
+        {
+            "sub_content": "Answers\n"
+        },
+        {
+            "sub_content": "Open Source Photography\n"
+        },
+        {
+            "sub_content": "OpenGL ",
+            "description": " Cross-platform API for rendering 2D and 3D graphics.\n"
+        },
+        {
+            "sub_content": "GraphQL\n"
+        },
+        {
+            "sub_content": "Urban & Regional Planning ",
+            "description": " Concerning the built environment and communities.\n"
+        },
+        {
+            "sub_content": "Transit\n"
+        },
+        {
+            "sub_content": "Research Tools\n"
+        },
+        {
+            "sub_content": "Data Visualization\n"
+        },
+        {
+            "sub_content": "Microservices\n"
+        },
+        {
+            "sub_content": "Unicode ",
+            "description": " Unicode standards, quirks, packages and resources.\n"
+        },
+        {
+            "sub_content": "Code Points\n"
+        },
+        {
+            "sub_content": "Beginner",
+            "description": "Friendly Projects\n"
+        },
+        {
+            "sub_content": "Katas\n"
+        },
+        {
+            "sub_content": "Tools for Activism\n"
+        },
+        {
+            "sub_content": "Citizen Science ",
+            "description": " For community-based and non-institutional scientists.\n"
+        },
+        {
+            "sub_content": "MQTT ",
+            "description": " \"Internet of Things\" connectivity protocol.\n"
+        },
+        {
+            "sub_content": "For Girls\n"
+        },
+        {
+            "sub_content": "Vorpal ",
+            "description": " Node.js CLI framework.\n"
+        },
+        {
+            "sub_content": "Vulkan ",
+            "description": " Low-overhead, cross-platform 3D graphics and compute API.\n"
+        },
+        {
+            "sub_content": "LaTeX ",
+            "description": " Typesetting language.\n"
+        },
+        {
+            "sub_content": "Economics ",
+            "description": " An economist's starter kit.\n"
+        },
+        {
+            "sub_content": "Funny Markov Chains\n"
+        },
+        {
+            "sub_content": "Bioinformatics\n"
+        },
+        {
+            "sub_content": "Cheminformatics ",
+            "description": " Informatics techniques applied to problems in chemistry.\n"
+        },
+        {
+            "sub_content": "Colorful ",
+            "description": " Choose your next color scheme.\n"
+        },
+        {
+            "sub_content": "Steam ",
+            "description": " Digital distribution platform.\n"
+        },
+        {
+            "sub_content": "Bots ",
+            "description": " Building bots.\n"
+        },
+        {
+            "sub_content": "Site Reliability Engineering\n"
+        },
+        {
+            "sub_content": "DTrace ",
+            "description": " Dynamic tracing framework.\n"
+        },
+        {
+            "sub_content": "Userscripts ",
+            "description": " Enhance your browsing experience.\n"
+        },
+        {
+            "sub_content": "Pokémon ",
+            "description": " Pokémon and Pokémon GO.\n"
+        },
+        {
+            "sub_content": "ChatOps ",
+            "description": " Managing technical and business operations through a chat.\n"
+        },
+        {
+            "sub_content": "Falsehood ",
+            "description": " Falsehoods programmers believe in.\n"
+        },
+        {
+            "sub_content": "Domain Driven Design ",
+            "description": " Software development approach for complex needs by connecting the implementation to an evolving model.\n"
+        },
+        {
+            "sub_content": "Quantified Self ",
+            "description": " Self-tracking through technology.\n"
+        },
+        {
+            "sub_content": "SaltStack ",
+            "description": " Python-based config management system.\n"
+        },
+        {
+            "sub_content": "Web Design ",
+            "description": " For digital designers.\n"
+        },
+        {
+            "sub_content": "Creative Coding ",
+            "description": " Programming something expressive instead of something functional.\n"
+        },
+        {
+            "sub_content": "No Login Web Apps ",
+            "description": " Web apps that work without login.\n"
+        },
+        {
+            "sub_content": "Free Software ",
+            "description": " Free as in freedom.\n"
+        },
+        {
+            "sub_content": "Framer ",
+            "description": " Prototyping interactive UI designs.\n"
+        },
+        {
+            "sub_content": "Markdown ",
+            "description": " Markup language.\n"
+        },
+        {
+            "sub_content": "Dev Fun ",
+            "description": " Funny developer projects.\n"
+        },
+        {
+            "sub_content": "Magento 2 ",
+            "description": " Open Source eCommerce built with PHP.\n"
+        },
+        {
+            "sub_content": "TikZ ",
+            "description": " Graph drawing packages for TeX/LaTeX/ConTeXt.\n"
+        },
+        {
+            "sub_content": "Ad Free ",
+            "description": " Ad-free alternatives.\n"
+        },
+        {
+            "sub_content": "Esolangs ",
+            "description": " Programming languages designed for experimentation or as jokes rather than actual use.\n"
+        },
+        {
+            "sub_content": "Prometheus ",
+            "description": " Open-source monitoring system.\n"
+        },
+        {
+            "sub_content": "Homematic ",
+            "description": " Smart home devices.\n"
+        },
+        {
+            "sub_content": "Ledger ",
+            "description": " Double-entry accounting on the command-line.\n"
+        },
+        {
+            "sub_content": "Web Monetization ",
+            "description": " A free open web standard service that allows you to send money directly in your browser.\n"
+        },
+        {
+            "sub_content": "Uncopyright ",
+            "description": " Public domain works.\n"
+        },
+        {
+            "sub_content": "Crypto Currency Tools & Algorithms ",
+            "description": " Digital currency where encryption is used to regulate the generation of units and verify transfers.\n"
+        },
+        {
+            "sub_content": "Open Source Supporters ",
+            "description": " Companies that offer their tools and services for free to open source projects.\n"
+        },
+        {
+            "sub_content": "Design Principles ",
+            "description": " Create better and more consistent designs and experiences.\n"
+        },
+        {
+            "sub_content": "Theravada ",
+            "description": " Teachings from the Theravada Buddhist tradition.\n"
+        },
+        {
+            "sub_content": "inspectIT ",
+            "description": " Open source Java app performance management tool.\n"
+        },
+        {
+            "sub_content": "Open Source Maintainers ",
+            "description": " The experience of being an open source maintainer.\n"
+        },
+        {
+            "sub_content": "Calculators ",
+            "description": " Calculators for every platform.\n"
+        },
+        {
+            "sub_content": "Captcha ",
+            "description": " A type of challenge–response test used in computing to determine whether or not the user is human.\n"
+        },
+        {
+            "sub_content": "Jupyter ",
+            "description": " Create and share documents that contain code, equations, visualizations and narrative text.\n"
+        },
+        {
+            "sub_content": "FIRST Robotics Competition ",
+            "description": " International high school robotics championship.\n"
+        },
+        {
+            "sub_content": "Speakers ",
+            "description": " Conference and meetup speakers in the programming and design community.\n"
+        },
+        {
+            "sub_content": "Board Games ",
+            "description": " Table-top gaming fun for all.\n"
+        },
+        {
+            "sub_content": "Software Patreons ",
+            "description": " Fund individual programmers or the development of open source projects.\n"
+        },
+        {
+            "sub_content": "Parasite ",
+            "description": " Parasites and host-pathogen interactions.\n"
+        },
+        {
+            "sub_content": "Food ",
+            "description": " Food-related projects on GitHub.\n"
+        },
+        {
+            "sub_content": "Bitcoin Payment Processors ",
+            "description": " Start accepting Bitcoin.\n"
+        },
+        {
+            "sub_content": "Scientific Computing ",
+            "description": " Solving complex scientific problems using computers.\n"
+        },
+        {
+            "sub_content": "Amazon Sellers\n"
+        },
+        {
+            "sub_content": "Agriculture ",
+            "description": " Open source technology for farming and gardening.\n"
+        },
+        {
+            "sub_content": "Product Design ",
+            "description": " Design a product from the initial concept to production.\n"
+        },
+        {
+            "sub_content": "Prisma ",
+            "description": " Turn your database into a GraphQL API.\n"
+        },
+        {
+            "sub_content": "Software Architecture ",
+            "description": " The discipline of designing and building software.\n"
+        },
+        {
+            "sub_content": "Connectivity Data and Reports ",
+            "description": " Better understand who has access to telecommunication and internet infrastructure and on what terms.\n"
+        },
+        {
+            "sub_content": "Stacks ",
+            "description": " Tech stacks for building different apps and features.\n"
+        },
+        {
+            "sub_content": "Cytodata ",
+            "description": " Image-based profiling of biological phenotypes for computational biologists.\n"
+        },
+        {
+            "sub_content": "IRC ",
+            "description": " Open source messaging protocol.\n"
+        },
+        {
+            "sub_content": "Advertising ",
+            "description": " Advertising and programmatic media for websites.\n"
+        },
+        {
+            "sub_content": "Earth ",
+            "description": " Find ways to resolve the climate crisis.\n"
+        },
+        {
+            "sub_content": "Naming ",
+            "description": " Naming things in computer science done right.\n"
+        },
+        {
+            "sub_content": "Web Archiving ",
+            "description": " An effort to preserve the Web for future generations.\n"
+        },
+        {
+            "sub_content": "WP CLI ",
+            "description": " Command-line interface for WordPress.\n"
+        },
+        {
+            "sub_content": "Credit Modeling ",
+            "description": " Methods for classifying credit applicants into risk classes.\n"
+        },
+        {
+            "sub_content": "Ansible ",
+            "description": " A Python-based, open source IT configuration management and automation platform.\n"
+        },
+        {
+            "sub_content": "Biological Visualizations ",
+            "description": " Interactive visualization of biological data on the web.\n"
+        },
+        {
+            "sub_content": "QR Code ",
+            "description": " A type of matrix barcode that can be used to store and share a small amount of information.\n"
+        },
+        {
+            "sub_content": "Veganism ",
+            "description": " Making the plant-based lifestyle easy and accessible.\n"
+        },
+        {
+            "sub_content": "Translations ",
+            "description": " The transfer of the meaning of a text from one language to another.\n"
+        },
+        {
+            "sub_content": "Scriptable ",
+            "description": " An iOS app for automations in JavaScript.\n"
+        },
+        {
+            "sub_content": "WebXR ",
+            "description": " Enables immersive virtual reality and augmented reality content on the web.\n"
+        },
+        {
+            "sub_content": "OpenStreetMap ",
+            "description": " An open data mapping project utilized by many apps and devices.\n"
+        },
+        {
+            "sub_content": "Computational Biology ",
+            "description": " Computational approaches applied to problems in biology."
+        }
+    ]
+}
