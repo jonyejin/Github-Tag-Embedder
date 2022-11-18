@@ -93,7 +93,7 @@ if __name__ == '__main__':
                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) "
                              "Chrome/84.0.4147.89 Safari/537.36"}
 
-    q = RedisQueue("final_project", host=cloud_info["host"], port=6379, db=0, decode_responses=True)
+    q = RedisQueue("", host=cloud_info["host"], port=6379, db=0, decode_responses=True)
 
     repo_list = []
 
