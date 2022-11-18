@@ -1,0 +1,115 @@
+/keras-team
+/keras-team/keras
+/keras-team/keras" id="code-tab-33015583
+/keras-team/keras/issues" id="issues-tab-33015583
+/keras-team/keras/pulls" id="pull-requests-tab-33015583
+/scikit-learn
+/scikit-learn/scikit-learn
+/scikit-learn/scikit-learn" id="code-tab-843222
+/scikit-learn/scikit-learn/issues" id="issues-tab-843222
+/scikit-learn/scikit-learn/pulls" id="pull-requests-tab-843222
+/scikit-learn/scikit-learn/discussions" id="discussions-tab-843222
+/apache/superset" style="max-height:275px
+/apache
+/apache/superset
+/apache/superset" id="code-tab-39464018
+/apache/superset/issues" id="issues-tab-39464018
+/apache/superset/pulls" id="pull-requests-tab-39464018
+/apache/superset/discussions" id="discussions-tab-39464018
+/microsoft/ML-For-Beginners" style="max-height:275px
+/microsoft
+/microsoft/ML-For-Beginners
+/microsoft/ML-For-Beginners" id="code-tab-343965132
+/microsoft/ML-For-Beginners/issues" id="issues-tab-343965132
+/microsoft/ML-For-Beginners/pulls" id="pull-requests-tab-343965132
+/microsoft/ML-For-Beginners/discussions" id="discussions-tab-343965132
+/pandas-dev
+/pandas-dev/pandas
+/pandas-dev/pandas" id="code-tab-858127
+/pandas-dev/pandas/issues" id="issues-tab-858127
+/pandas-dev/pandas/pulls" id="pull-requests-tab-858127
+/GokuMohandas/Made-With-ML" style="max-height:275px
+/GokuMohandas
+/GokuMohandas/Made-With-ML
+/GokuMohandas/Made-With-ML" id="code-tab-156157055
+/GokuMohandas/Made-With-ML/issues" id="issues-tab-156157055
+/GokuMohandas/Made-With-ML/pulls" id="pull-requests-tab-156157055
+/CamDavidsonPilon
+/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers" id="code-tab-7607075
+/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/issues" id="issues-tab-7607075
+/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/pulls" id="pull-requests-tab-7607075
+/explosion
+/explosion/spaCy
+/explosion/spaCy" id="code-tab-21467110
+/explosion/spaCy/issues" id="issues-tab-21467110
+/explosion/spaCy/pulls" id="pull-requests-tab-21467110
+/explosion/spaCy/discussions" id="discussions-tab-21467110
+/donnemartin
+/donnemartin/data-science-ipython-notebooks
+/donnemartin/data-science-ipython-notebooks" id="code-tab-29749635
+/donnemartin/data-science-ipython-notebooks/issues" id="issues-tab-29749635
+/donnemartin/data-science-ipython-notebooks/pulls" id="pull-requests-tab-29749635
+/AMAI-GmbH/AI-Expert-Roadmap" style="max-height:275px
+/AMAI-GmbH
+/AMAI-GmbH/AI-Expert-Roadmap
+/AMAI-GmbH/AI-Expert-Roadmap" id="code-tab-306977633
+/AMAI-GmbH/AI-Expert-Roadmap/issues" id="issues-tab-306977633
+/AMAI-GmbH/AI-Expert-Roadmap/pulls" id="pull-requests-tab-306977633
+/ray-project
+/ray-project/ray
+/ray-project/ray" id="code-tab-71932349
+/ray-project/ray/issues" id="issues-tab-71932349
+/ray-project/ray/pulls" id="pull-requests-tab-71932349
+/eugeneyan/applied-ml" style="max-height:275px
+/eugeneyan
+/eugeneyan/applied-ml
+/eugeneyan/applied-ml" id="code-tab-277168957
+/eugeneyan/applied-ml/issues" id="issues-tab-277168957
+/eugeneyan/applied-ml/pulls" id="pull-requests-tab-277168957
+/eriklindernoren
+/eriklindernoren/ML-From-Scratch
+/eriklindernoren/ML-From-Scratch" id="code-tab-80990461
+/eriklindernoren/ML-From-Scratch/issues" id="issues-tab-80990461
+/eriklindernoren/ML-From-Scratch/pulls" id="pull-requests-tab-80990461
+/streamlit
+/streamlit/streamlit
+/streamlit/streamlit" id="code-tab-204086862
+/streamlit/streamlit/issues" id="issues-tab-204086862
+/streamlit/streamlit/pulls" id="pull-requests-tab-204086862
+/Lightning-AI/lightning" style="max-height:275px
+/Lightning-AI
+/Lightning-AI/lightning
+/Lightning-AI/lightning" id="code-tab-178626720
+/Lightning-AI/lightning/issues" id="issues-tab-178626720
+/Lightning-AI/lightning/pulls" id="pull-requests-tab-178626720
+/Lightning-AI/lightning/discussions" id="discussions-tab-178626720
+/academic
+/academic/awesome-datascience
+/academic/awesome-datascience" id="code-tab-21515044
+/academic/awesome-datascience/issues" id="issues-tab-21515044
+/academic/awesome-datascience/pulls" id="pull-requests-tab-21515044
+/academic/awesome-datascience/discussions" id="discussions-tab-21515044
+/plotly/dash" style="max-height:275px
+/plotly
+/plotly/dash
+/plotly/dash" id="code-tab-33702544
+/plotly/dash/issues" id="issues-tab-33702544
+/plotly/dash/pulls" id="pull-requests-tab-33702544
+/microsoft/Data-Science-For-Beginners" style="max-height:275px
+/microsoft
+/microsoft/Data-Science-For-Beginners
+/microsoft/Data-Science-For-Beginners" id="code-tab-344191198
+/microsoft/Data-Science-For-Beginners/issues" id="issues-tab-344191198
+/microsoft/Data-Science-For-Beginners/pulls" id="pull-requests-tab-344191198
+/microsoft/Data-Science-For-Beginners/discussions" id="discussions-tab-344191198
+/fastai
+/fastai/fastbook
+/fastai/fastbook" id="code-tab-243838973
+/fastai/fastbook/issues" id="issues-tab-243838973
+/fastai/fastbook/pulls" id="pull-requests-tab-243838973
+/matplotlib
+/matplotlib/matplotlib
+/matplotlib/matplotlib" id="code-tab-1385122
+/matplotlib/matplotlib/issues" id="issues-tab-1385122
+/matplotlib/matplotlib/pulls" id="pull-requests-tab-1385122
