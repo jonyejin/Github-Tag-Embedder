@@ -1,0 +1,1326 @@
+{
+    "Machine Learning": [
+        {
+            "sub_content": "scikit learn ",
+            "description": " Machine learning in Python. \n"
+        },
+        {
+            "sub_content": "Shogun ",
+            "description": " Machine learning toolbox.\n"
+        },
+        {
+            "sub_content": "xLearn ",
+            "description": " High Performance, Easy to use, and Scalable Machine Learning Package.\n"
+        },
+        {
+            "sub_content": "cuML ",
+            "description": " RAPIDS Machine Learning Library.  \n"
+        },
+        {
+            "sub_content": "modAL ",
+            "description": " Modular active learning framework for Python3. \n"
+        },
+        {
+            "sub_content": "Sparkit learn ",
+            "description": " PySpark + scikit learn = Sparkit learn.  \n"
+        },
+        {
+            "sub_content": "mlpack ",
+            "description": " A scalable C++ machine learning library (Python bindings).\n"
+        },
+        {
+            "sub_content": "dlib ",
+            "description": " Toolkit for making real world machine learning and data analysis applications in C++ (Python bindings).\n"
+        },
+        {
+            "sub_content": "MLxtend ",
+            "description": " Extension and helper modules for Python's data analysis and machine learning libraries. \n"
+        },
+        {
+            "sub_content": "hyperlearn ",
+            "description": " 50%+ Faster, 50%+ less RAM usage, GPU support rewritten Sklearn, Statsmodels.  \n"
+        },
+        {
+            "sub_content": "Reproducible Experiment Platform (REP) ",
+            "description": " Machine Learning toolbox for Humans. \n"
+        },
+        {
+            "sub_content": "scikit multilearn ",
+            "description": " Multi label classification for python. \n"
+        },
+        {
+            "sub_content": "seqlearn ",
+            "description": " Sequence classification toolkit for Python. \n"
+        },
+        {
+            "sub_content": "pystruct ",
+            "description": " Simple structured learning framework for Python. \n"
+        },
+        {
+            "sub_content": "sklearn expertsys ",
+            "description": " Highly interpretable classifiers for scikit learn. \n"
+        },
+        {
+            "sub_content": "RuleFit ",
+            "description": " Implementation of the rulefit. \n"
+        },
+        {
+            "sub_content": "metric learn ",
+            "description": " Metric learning algorithms in Python. \n"
+        },
+        {
+            "sub_content": "pyGAM ",
+            "description": " Generalized Additive Models in Python.\n"
+        },
+        {
+            "sub_content": "Karate Club ",
+            "description": " An unsupervised machine learning library for graph structured data.\n"
+        },
+        {
+            "sub_content": "Little Ball of Fur ",
+            "description": " A library for sampling graph structured data.\n"
+        },
+        {
+            "sub_content": "causalml ",
+            "description": " Uplift modeling and causal inference with machine learning algorithms. \n"
+        },
+        {
+            "sub_content": "Deepchecks ",
+            "description": " Validation & testing of ML models and data during model development, deployment, and production. \n"
+        },
+        {
+            "sub_content": "TPOT ",
+            "description": " Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. \n"
+        },
+        {
+            "sub_content": "auto sklearn ",
+            "description": " An automated machine learning toolkit and a drop in replacement for a scikit learn estimator. \n"
+        },
+        {
+            "sub_content": "MLBox ",
+            "description": " A powerful Automated Machine Learning python library.\n"
+        },
+        {
+            "sub_content": "ML Ensemble ",
+            "description": " High performance ensemble learning. \n"
+        },
+        {
+            "sub_content": "Stacking ",
+            "description": " Simple and useful stacking library, written in Python. \n"
+        },
+        {
+            "sub_content": "stacked_generalization ",
+            "description": " Library for machine learning stacking generalization. \n"
+        },
+        {
+            "sub_content": "vecstack ",
+            "description": " Python package for stacking (machine learning technique). \n"
+        },
+        {
+            "sub_content": "imbalanced learn ",
+            "description": " Module to perform under sampling and over sampling with various techniques. \n"
+        },
+        {
+            "sub_content": "imbalanced algorithms ",
+            "description": " Python based implementations of algorithms for learning on imbalanced data.  \n"
+        },
+        {
+            "sub_content": "rpforest ",
+            "description": " A forest of random projection trees. \n"
+        },
+        {
+            "sub_content": "sklearn random bits forest ",
+            "description": " Wrapper of the Random Bits Forest program written by (Wang et al., 2016).\n"
+        },
+        {
+            "sub_content": "rgf_python ",
+            "description": " Python Wrapper of Regularized Greedy Forest. \n"
+        },
+        {
+            "sub_content": "Python ELM ",
+            "description": " Extreme Learning Machine implementation in Python. \n"
+        },
+        {
+            "sub_content": "Python Extreme Learning Machine (ELM) ",
+            "description": " A machine learning technique used for classification/regression tasks.\n"
+        },
+        {
+            "sub_content": "hpelm ",
+            "description": " High performance implementation of Extreme Learning Machines (fast randomized neural networks). \n"
+        },
+        {
+            "sub_content": "pyFM ",
+            "description": " Factorization machines in python. \n"
+        },
+        {
+            "sub_content": "fastFM ",
+            "description": " A library for Factorization Machines. \n"
+        },
+        {
+            "sub_content": "tffm ",
+            "description": " TensorFlow implementation of an arbitrary order Factorization Machine.  \n"
+        },
+        {
+            "sub_content": "liquidSVM ",
+            "description": " An implementation of SVMs.\n"
+        },
+        {
+            "sub_content": "scikit rvm ",
+            "description": " Relevance Vector Machine implementation using the scikit learn API. \n"
+        },
+        {
+            "sub_content": "ThunderSVM ",
+            "description": " A fast SVM Library on GPUs and CPUs.  \n"
+        },
+        {
+            "sub_content": "XGBoost ",
+            "description": " Scalable, Portable and Distributed Gradient Boosting.  \n"
+        },
+        {
+            "sub_content": "LightGBM ",
+            "description": " A fast, distributed, high performance gradient boosting.  \n"
+        },
+        {
+            "sub_content": "CatBoost ",
+            "description": " An open source gradient boosting on decision trees library.  \n"
+        },
+        {
+            "sub_content": "ThunderGBM ",
+            "description": " Fast GBDTs and Random Forests on GPUs.  \n"
+        }
+    ],
+    "Deep Learning": [
+        {
+            "sub_content": "PyTorch ",
+            "description": " Tensors and Dynamic neural networks in Python with strong GPU acceleration. \n"
+        },
+        {
+            "sub_content": "torchvision ",
+            "description": " Datasets, Transforms and Models specific to Computer Vision. \n"
+        },
+        {
+            "sub_content": "torchtext ",
+            "description": " Data loaders and abstractions for text and NLP. \n"
+        },
+        {
+            "sub_content": "torchaudio ",
+            "description": " An audio library for PyTorch. \n"
+        },
+        {
+            "sub_content": "ignite ",
+            "description": " High level library to help with training neural networks in PyTorch. \n"
+        },
+        {
+            "sub_content": "PyToune ",
+            "description": " A Keras like framework and utilities for PyTorch.\n"
+        },
+        {
+            "sub_content": "skorch ",
+            "description": " A scikit learn compatible neural network library that wraps pytorch.  \n"
+        },
+        {
+            "sub_content": "PyTorchNet ",
+            "description": " An abstraction to train neural networks. \n"
+        },
+        {
+            "sub_content": "pytorch_geometric ",
+            "description": " Geometric Deep Learning Extension Library for PyTorch. \n"
+        },
+        {
+            "sub_content": "Catalyst ",
+            "description": " High level utils for PyTorch DL & RL research. \n"
+        },
+        {
+            "sub_content": "pytorch_geometric_temporal ",
+            "description": " Temporal Extension Library for PyTorch Geometric. \n"
+        },
+        {
+            "sub_content": "ChemicalX ",
+            "description": " A PyTorch based deep learning library for drug pair scoring. \n"
+        },
+        {
+            "sub_content": "TensorFlow ",
+            "description": " Computation using data flow graphs for scalable machine learning by Google. \n"
+        },
+        {
+            "sub_content": "TensorLayer ",
+            "description": " Deep Learning and Reinforcement Learning Library for Researcher and Engineer. \n"
+        },
+        {
+            "sub_content": "TFLearn ",
+            "description": " Deep learning library featuring a higher level API for TensorFlow. \n"
+        },
+        {
+            "sub_content": "Sonnet ",
+            "description": " TensorFlow based neural network library. \n"
+        },
+        {
+            "sub_content": "tensorpack ",
+            "description": " A Neural Net Training Interface on TensorFlow. \n"
+        },
+        {
+            "sub_content": "Polyaxon ",
+            "description": " A platform that helps you build, manage and monitor deep learning models. \n"
+        },
+        {
+            "sub_content": "NeuPy ",
+            "description": " NeuPy is a Python library for Artificial Neural Networks and Deep Learning (previously: ). \n"
+        },
+        {
+            "sub_content": "tfdeploy ",
+            "description": " Deploy tensorflow graphs for fast evaluation and export to tensorflow less environments running numpy. \n"
+        },
+        {
+            "sub_content": "tensorflow upstream ",
+            "description": " TensorFlow ROCm port.  \n"
+        },
+        {
+            "sub_content": "TensorFlow Fold ",
+            "description": " Deep learning with dynamic computation graphs in TensorFlow. \n"
+        },
+        {
+            "sub_content": "tensorlm ",
+            "description": " Wrapper library for text generation / language models at char and word level with RNN. \n"
+        },
+        {
+            "sub_content": "TensorLight ",
+            "description": " A high level framework for TensorFlow. \n"
+        },
+        {
+            "sub_content": "Mesh TensorFlow ",
+            "description": " Model Parallelism Made Easier. \n"
+        },
+        {
+            "sub_content": "Ludwig ",
+            "description": " A toolbox, that allows to train and test deep learning models without the need to write code. \n"
+        },
+        {
+            "sub_content": "Keras ",
+            "description": " A high level neural networks API running on top of TensorFlow.  \n"
+        },
+        {
+            "sub_content": "keras contrib ",
+            "description": " Keras community contributions. \n"
+        },
+        {
+            "sub_content": "Hyperas ",
+            "description": " Keras + Hyperopt: A very simple wrapper for convenient hyperparameter. \n"
+        },
+        {
+            "sub_content": "Elephas ",
+            "description": " Distributed Deep learning with Keras & Spark. \n"
+        },
+        {
+            "sub_content": "Hera ",
+            "description": " Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser. \n"
+        },
+        {
+            "sub_content": "Spektral ",
+            "description": " Deep learning on graphs. \n"
+        },
+        {
+            "sub_content": "qkeras ",
+            "description": " A quantization deep learning library. \n"
+        },
+        {
+            "sub_content": "MXNet ",
+            "description": " Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation aware Dataflow Dep Scheduler. \n"
+        },
+        {
+            "sub_content": "Gluon ",
+            "description": " A clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet). \n"
+        },
+        {
+            "sub_content": "MXbox ",
+            "description": " Simple, efficient and flexible vision toolbox for mxnet framework. \n"
+        },
+        {
+            "sub_content": "gluon cv ",
+            "description": " Provides implementations of the state of the art  deep learning models in computer vision. \n"
+        },
+        {
+            "sub_content": "gluon nlp ",
+            "description": " NLP made easy. \n"
+        },
+        {
+            "sub_content": "Xfer ",
+            "description": " Transfer Learning library for Deep Neural Networks. \n"
+        },
+        {
+            "sub_content": "MXNet ",
+            "description": " HIP Port of MXNet.  \n"
+        },
+        {
+            "sub_content": "Tangent ",
+            "description": " Source to Source Debuggable Derivatives in Pure Python.\n"
+        },
+        {
+            "sub_content": "autograd ",
+            "description": " Efficiently computes derivatives of numpy code.\n"
+        },
+        {
+            "sub_content": "Myia ",
+            "description": " Deep Learning framework (pre alpha).\n"
+        },
+        {
+            "sub_content": "nnabla ",
+            "description": " Neural Network Libraries by Sony.\n"
+        },
+        {
+            "sub_content": "Caffe ",
+            "description": " A fast open framework for deep learning.\n"
+        },
+        {
+            "sub_content": "hipCaffe ",
+            "description": " The HIP port of Caffe. \n"
+        }
+    ],
+    "Web Scraping": [
+        {
+            "sub_content": "BeautifulSoup ",
+            "description": " The easiest library to scrape static websites for beginners\n"
+        },
+        {
+            "sub_content": "Scrapy ",
+            "description": " Fast and extensible scraping library. Can write rules and create customized scraper without touching the coure\n"
+        },
+        {
+            "sub_content": "Selenium ",
+            "description": " Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.\n"
+        },
+        {
+            "sub_content": "Pattern ",
+            "description": " High level scraping for well establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization\n"
+        },
+        {
+            "sub_content": "twitterscraper ",
+            "description": " Efficient library to scrape twitter\n"
+        }
+    ],
+    "Data Manipulation": [
+        {
+            "sub_content": "pandas ",
+            "description": " Powerful Python data analysis toolkit.\n"
+        },
+        {
+            "sub_content": "pandas_profiling ",
+            "description": " Create HTML profiling reports from pandas DataFrame objects\n"
+        },
+        {
+            "sub_content": "cuDF ",
+            "description": " GPU DataFrame Library.  \n"
+        },
+        {
+            "sub_content": "blaze ",
+            "description": " NumPy and pandas interface to Big Data. \n"
+        },
+        {
+            "sub_content": "pandasql ",
+            "description": "  Allows you to query pandas DataFrames using SQL syntax. \n"
+        },
+        {
+            "sub_content": "pandas gbq ",
+            "description": " pandas Google Big Query. \n"
+        },
+        {
+            "sub_content": "xpandas ",
+            "description": " Universal 1d/2d data containers with Transformers .functionality for data analysis by The Alan Turing Institute.\n"
+        },
+        {
+            "sub_content": "pysparkling ",
+            "description": " A pure Python implementation of Apache Spark's RDD and DStream interfaces. \n"
+        },
+        {
+            "sub_content": "Arctic ",
+            "description": " High performance datastore for time series and tick data.\n"
+        },
+        {
+            "sub_content": "datatable ",
+            "description": " Data.table for Python. \n"
+        },
+        {
+            "sub_content": "koalas ",
+            "description": " pandas API on Apache Spark. \n"
+        },
+        {
+            "sub_content": "modin ",
+            "description": " Speed up your pandas workflows by changing a single line of code. \n"
+        },
+        {
+            "sub_content": "swifter ",
+            "description": " A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.\n"
+        },
+        {
+            "sub_content": "pandas_flavor ",
+            "description": " A package which allow to write your own flavor of Pandas easily.\n"
+        },
+        {
+            "sub_content": "pandas log ",
+            "description": " A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.\n"
+        },
+        {
+            "sub_content": "vaex ",
+            "description": " Out of Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.\n"
+        },
+        {
+            "sub_content": "pdpipe ",
+            "description": " Sasy pipelines for pandas DataFrames.\n"
+        },
+        {
+            "sub_content": "SSPipe ",
+            "description": " Python pipe (|) operator with support for DataFrames and Numpy and Pytorch.\n"
+        },
+        {
+            "sub_content": "pandas ply ",
+            "description": " Functional data manipulation for pandas. \n"
+        },
+        {
+            "sub_content": "Dplython ",
+            "description": " Dplyr for Python. \n"
+        },
+        {
+            "sub_content": "sklearn pandas ",
+            "description": " pandas integration with sklearn.  \n"
+        },
+        {
+            "sub_content": "Dataset ",
+            "description": " Helps you conveniently work with random or sequential batches of your data and define data processing.\n"
+        },
+        {
+            "sub_content": "pyjanitor ",
+            "description": " Clean APIs for data cleaning. \n"
+        },
+        {
+            "sub_content": "meza ",
+            "description": " A Python toolkit for processing tabular data.\n"
+        },
+        {
+            "sub_content": "Prodmodel ",
+            "description": " Build system for data science pipelines.\n"
+        },
+        {
+            "sub_content": "dopanda ",
+            "description": "  Hints and tips for using pandas in an analysis environment. \n"
+        }
+    ],
+    "Feature Engineering": [
+        {
+            "sub_content": "Featuretools ",
+            "description": " Automated feature engineering.\n"
+        },
+        {
+            "sub_content": "Feature Engine ",
+            "description": " Feature engineering package with sklearn like functionality. \n"
+        },
+        {
+            "sub_content": "skl groups ",
+            "description": " A scikit learn addon to operate on set/\"group\" based features. \n"
+        },
+        {
+            "sub_content": "Feature Forge ",
+            "description": " A set of tools for creating and testing machine learning feature. \n"
+        },
+        {
+            "sub_content": "few ",
+            "description": " A feature engineering wrapper for sklearn. \n"
+        },
+        {
+            "sub_content": "scikit mdr ",
+            "description": " A sklearn compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction. \n"
+        },
+        {
+            "sub_content": "tsfresh ",
+            "description": " Automatic extraction of relevant features from time series. \n"
+        },
+        {
+            "sub_content": "scikit feature ",
+            "description": " Feature selection repository in python.\n"
+        },
+        {
+            "sub_content": "boruta_py ",
+            "description": " Implementations of the Boruta all relevant feature selection method. \n"
+        },
+        {
+            "sub_content": "BoostARoota ",
+            "description": " A fast xgboost feature selection algorithm. \n"
+        },
+        {
+            "sub_content": "scikit rebate ",
+            "description": " A scikit learn compatible Python implementation of ReBATE, a suite of Relief based feature selection algorithms for Machine Learning. \n"
+        }
+    ],
+    "Visualization": [
+        {
+            "sub_content": "Matplotlib ",
+            "description": " Plotting with Python.\n"
+        },
+        {
+            "sub_content": "seaborn ",
+            "description": " Statistical data visualization using matplotlib.\n"
+        },
+        {
+            "sub_content": "prettyplotlib ",
+            "description": " Painlessly create beautiful matplotlib plots.\n"
+        },
+        {
+            "sub_content": "python ternary ",
+            "description": " Ternary plotting library for python with matplotlib.\n"
+        },
+        {
+            "sub_content": "missingno ",
+            "description": " Missing data visualization module for Python.\n"
+        },
+        {
+            "sub_content": "chartify ",
+            "description": " Python library that makes it easy for data scientists to create charts.\n"
+        },
+        {
+            "sub_content": "physt ",
+            "description": " Improved histograms.\n"
+        },
+        {
+            "sub_content": "animatplot ",
+            "description": " A python package for animating plots build on matplotlib.\n"
+        },
+        {
+            "sub_content": "plotly ",
+            "description": " A Python library that makes interactive and publication quality graphs.\n"
+        },
+        {
+            "sub_content": "Bokeh ",
+            "description": " Interactive Web Plotting for Python.\n"
+        },
+        {
+            "sub_content": "Altair ",
+            "description": " Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph\n"
+        },
+        {
+            "sub_content": "bqplot ",
+            "description": " Plotting library for IPython/Jupyter notebooks\n"
+        },
+        {
+            "sub_content": "pyecharts ",
+            "description": " Migrated from Echarts, a charting and visualization library, to Python's interactive visual drawing library. \n"
+        },
+        {
+            "sub_content": "folium ",
+            "description": " Makes it easy to visualize data on an interactive open street map\n"
+        },
+        {
+            "sub_content": "geemap ",
+            "description": " Python package for interactive mapping with Google Earth Engine (GEE)\n"
+        },
+        {
+            "sub_content": "HoloViews ",
+            "description": " Stop plotting your data annotate your data and let it visualize itself.\n"
+        },
+        {
+            "sub_content": "AutoViz ",
+            "description": " Visualize data automatically with 1 line of code (ideal for machine learning)\n"
+        },
+        {
+            "sub_content": "SweetViz ",
+            "description": " Visualize and compare datasets, target values and associations, with one line of code.\n"
+        },
+        {
+            "sub_content": "pyLDAvis ",
+            "description": " Visualize interactive topic model\n"
+        }
+    ],
+    "Deployment": [
+        {
+            "sub_content": "datapane ",
+            "description": " A collection of APIs to turn scripts and notebooks into interactive reports.\n"
+        },
+        {
+            "sub_content": "binder ",
+            "description": " Enable sharing and execute Jupyter Notebooks\n"
+        },
+        {
+            "sub_content": "fastapi ",
+            "description": " Modern, fast (high performance), web framework for building APIs with Python\n"
+        },
+        {
+            "sub_content": "streamlit ",
+            "description": " Make it easy to deploy machine learning model\n"
+        }
+    ],
+    "Model Explanation": [
+        {
+            "sub_content": "Shapley ",
+            "description": " A data driven framework to quantify the value of classifiers in a machine learning ensemble.\n"
+        },
+        {
+            "sub_content": "Alibi ",
+            "description": " Algorithms for monitoring and explaining machine learning models.\n"
+        },
+        {
+            "sub_content": "anchor ",
+            "description": " Code for \"High Precision Model Agnostic Explanations\" paper.\n"
+        },
+        {
+            "sub_content": "aequitas ",
+            "description": " Bias and Fairness Audit Toolkit.\n"
+        },
+        {
+            "sub_content": "Contrastive Explanation ",
+            "description": " Contrastive Explanation (Foil Trees). \n"
+        },
+        {
+            "sub_content": "yellowbrick ",
+            "description": " Visual analysis and diagnostic tools to facilitate machine learning model selection. \n"
+        },
+        {
+            "sub_content": "scikit plot ",
+            "description": " An intuitive library to add plotting functionality to scikit learn objects. \n"
+        },
+        {
+            "sub_content": "shap ",
+            "description": " A unified approach to explain the output of any machine learning model. \n"
+        },
+        {
+            "sub_content": "ELI5 ",
+            "description": " A library for debugging/inspecting machine learning classifiers and explaining their predictions.\n"
+        },
+        {
+            "sub_content": "Lime ",
+            "description": " Explaining the predictions of any machine learning classifier. \n"
+        },
+        {
+            "sub_content": "FairML ",
+            "description": " FairML is a python toolbox auditing the machine learning models for bias. \n"
+        },
+        {
+            "sub_content": "L2X ",
+            "description": " Code for replicating the experiments in the paper Learning to Explain: An Information Theoretic Perspective on Model Interpretation.\n"
+        },
+        {
+            "sub_content": "PDPbox ",
+            "description": " Partial dependence plot toolbox.\n"
+        },
+        {
+            "sub_content": "pyBreakDown ",
+            "description": " Python implementation of R package breakDown. \n"
+        },
+        {
+            "sub_content": "PyCEbox ",
+            "description": " Python Individual Conditional Expectation Plot Toolbox.\n"
+        },
+        {
+            "sub_content": "Skater ",
+            "description": " Python Library for Model Interpretation.\n"
+        },
+        {
+            "sub_content": "model analysis ",
+            "description": " Model analysis tools for TensorFlow. \n"
+        },
+        {
+            "sub_content": "themis ml ",
+            "description": " A library that implements fairness aware machine learning algorithms. \n"
+        },
+        {
+            "sub_content": "treeinterpreter ",
+            "description": " Interpreting scikit learn's decision tree and random forest predictions. \n"
+        },
+        {
+            "sub_content": "AI Explainability 360 ",
+            "description": " Interpretability and explainability of data and machine learning models.\n"
+        },
+        {
+            "sub_content": "Auralisation ",
+            "description": " Auralisation of learned features in CNN (for audio).\n"
+        },
+        {
+            "sub_content": "CapsNet Visualization ",
+            "description": " A visualization of the CapsNet layers to better understand how it works.\n"
+        },
+        {
+            "sub_content": "lucid ",
+            "description": " A collection of infrastructure and tools for research in neural network interpretability.\n"
+        },
+        {
+            "sub_content": "Netron ",
+            "description": " Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).\n"
+        },
+        {
+            "sub_content": "FlashLight ",
+            "description": " Visualization Tool for your NeuralNetwork.\n"
+        },
+        {
+            "sub_content": "tensorboard pytorch ",
+            "description": " Tensorboard for pytorch (and chainer, mxnet, numpy, ...).\n"
+        },
+        {
+            "sub_content": "mxboard ",
+            "description": " Logging MXNet data for visualization in TensorBoard. \n"
+        }
+    ],
+    "Reinforcement Learning": [
+        {
+            "sub_content": "OpenAI Gym ",
+            "description": " A toolkit for developing and comparing reinforcement learning algorithms.\n"
+        },
+        {
+            "sub_content": "Coach ",
+            "description": " Easy experimentation with state of the art Reinforcement Learning algorithms.\n"
+        },
+        {
+            "sub_content": "garage ",
+            "description": " A toolkit for reproducible reinforcement learning research.\n"
+        },
+        {
+            "sub_content": "OpenAI Baselines ",
+            "description": " High quality implementations of reinforcement learning algorithms.\n"
+        },
+        {
+            "sub_content": "Stable Baselines ",
+            "description": " A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.\n"
+        },
+        {
+            "sub_content": "RLlib ",
+            "description": " Scalable Reinforcement Learning.\n"
+        },
+        {
+            "sub_content": "Horizon ",
+            "description": " A platform for Applied Reinforcement Learning.\n"
+        },
+        {
+            "sub_content": "TF Agents ",
+            "description": " A library for Reinforcement Learning in TensorFlow. \n"
+        },
+        {
+            "sub_content": "TensorForce ",
+            "description": " A TensorFlow library for applied reinforcement learning. \n"
+        },
+        {
+            "sub_content": "TRFL ",
+            "description": " TensorFlow Reinforcement Learning. \n"
+        },
+        {
+            "sub_content": "Dopamine ",
+            "description": " A research framework for fast prototyping of reinforcement learning algorithms.\n"
+        },
+        {
+            "sub_content": "keras rl ",
+            "description": " Deep Reinforcement Learning for Keras. \n"
+        },
+        {
+            "sub_content": "ChainerRL ",
+            "description": " A deep reinforcement learning library built on top of Chainer.\n"
+        }
+    ],
+    "Probabilistic Methods": [
+        {
+            "sub_content": "pyro ",
+            "description": " A flexible, scalable deep probabilistic programming library built on PyTorch. \n"
+        },
+        {
+            "sub_content": "pomegranate ",
+            "description": " Probabilistic and graphical models for Python. \n"
+        },
+        {
+            "sub_content": "ZhuSuan ",
+            "description": " Bayesian Deep Learning. \n"
+        },
+        {
+            "sub_content": "PyMC ",
+            "description": " Bayesian Stochastic Modelling in Python.\n"
+        },
+        {
+            "sub_content": "InferPy ",
+            "description": " Deep Probabilistic Modelling Made Easy.  \n"
+        },
+        {
+            "sub_content": "GPflow ",
+            "description": " Gaussian processes in TensorFlow. \n"
+        },
+        {
+            "sub_content": "PyStan ",
+            "description": " Bayesian inference using the No U Turn sampler (Python interface).\n"
+        },
+        {
+            "sub_content": "sklearn bayes ",
+            "description": " Python package for Bayesian Machine Learning with scikit learn API. \n"
+        },
+        {
+            "sub_content": "pgmpy ",
+            "description": " A python library for working with Probabilistic Graphical Models.\n"
+        },
+        {
+            "sub_content": "skpro ",
+            "description": " Supervised domain agnostic prediction framework for probabilistic modelling by The Alan Turing Institute. \n"
+        },
+        {
+            "sub_content": "PtStat ",
+            "description": " Probabilistic Programming and Statistical Inference in PyTorch. \n"
+        },
+        {
+            "sub_content": "PyVarInf ",
+            "description": " Bayesian Deep Learning methods with Variational Inference for PyTorch. \n"
+        },
+        {
+            "sub_content": "emcee ",
+            "description": " The Python ensemble sampling toolkit for affine invariant MCMC.\n"
+        },
+        {
+            "sub_content": "hsmmlearn ",
+            "description": " A library for hidden semi Markov models with explicit durations.\n"
+        },
+        {
+            "sub_content": "pyhsmm ",
+            "description": " Bayesian inference in HSMMs and HMMs.\n"
+        },
+        {
+            "sub_content": "GPyTorch ",
+            "description": " A highly efficient and modular implementation of Gaussian Processes in PyTorch. \n"
+        },
+        {
+            "sub_content": "MXFusion ",
+            "description": " Modular Probabilistic Programming on MXNet. \n"
+        },
+        {
+            "sub_content": "sklearn crfsuite ",
+            "description": " A scikit learn inspired API for CRFsuite. \n"
+        }
+    ],
+    "Genetic Programming": [
+        {
+            "sub_content": "gplearn ",
+            "description": " Genetic Programming in Python. \n"
+        },
+        {
+            "sub_content": "DEAP ",
+            "description": " Distributed Evolutionary Algorithms in Python.\n"
+        },
+        {
+            "sub_content": "karoo_gp ",
+            "description": " A Genetic Programming platform for Python with GPU support. \n"
+        },
+        {
+            "sub_content": "monkeys ",
+            "description": " A strongly typed genetic programming framework for Python.\n"
+        },
+        {
+            "sub_content": "sklearn genetic ",
+            "description": " Genetic feature selection module for scikit learn. \n"
+        }
+    ],
+    "Optimization": [
+        {
+            "sub_content": "Spearmint ",
+            "description": " Bayesian optimization.\n"
+        },
+        {
+            "sub_content": "BoTorch ",
+            "description": " Bayesian optimization in PyTorch. \n"
+        },
+        {
+            "sub_content": "scikit opt ",
+            "description": " Heuristic Algorithms for optimization.\n"
+        },
+        {
+            "sub_content": "sklearn genetic opt ",
+            "description": " Hyperparameters tuning and feature selection, using evolutionary algorithms. \n"
+        },
+        {
+            "sub_content": "SMAC3 ",
+            "description": " Sequential Model based Algorithm Configuration.\n"
+        },
+        {
+            "sub_content": "Optunity ",
+            "description": " Is a library containing various optimizers for hyperparameter tuning.\n"
+        },
+        {
+            "sub_content": "hyperopt ",
+            "description": " Distributed Asynchronous Hyperparameter Optimization in Python.\n"
+        },
+        {
+            "sub_content": "hyperopt sklearn ",
+            "description": " Hyper parameter optimization for sklearn. \n"
+        },
+        {
+            "sub_content": "sklearn deap ",
+            "description": " Use evolutionary algorithms instead of gridsearch in scikit learn. \n"
+        },
+        {
+            "sub_content": "sigopt_sklearn ",
+            "description": " SigOpt wrappers for scikit learn methods. \n"
+        },
+        {
+            "sub_content": "Bayesian Optimization ",
+            "description": " A Python implementation of global optimization with gaussian processes.\n"
+        },
+        {
+            "sub_content": "SafeOpt ",
+            "description": " Safe Bayesian Optimization.\n"
+        },
+        {
+            "sub_content": "scikit optimize ",
+            "description": " Sequential model based optimization with a scipy.optimize interface.\n"
+        },
+        {
+            "sub_content": "Solid ",
+            "description": " A comprehensive gradient free optimization framework written in Python.\n"
+        },
+        {
+            "sub_content": "PySwarms ",
+            "description": " A research toolkit for particle swarm optimization in Python.\n"
+        },
+        {
+            "sub_content": "Platypus ",
+            "description": " A Free and Open Source Python Library for Multiobjective Optimization.\n"
+        },
+        {
+            "sub_content": "GPflowOpt ",
+            "description": " Bayesian Optimization using GPflow. \n"
+        },
+        {
+            "sub_content": "POT ",
+            "description": " Python Optimal Transport library.\n"
+        },
+        {
+            "sub_content": "Talos ",
+            "description": " Hyperparameter Optimization for Keras Models.\n"
+        },
+        {
+            "sub_content": "nlopt ",
+            "description": " Library for nonlinear optimization (global and local, constrained or unconstrained).\n"
+        }
+    ],
+    "Time Series": [
+        {
+            "sub_content": "sktime ",
+            "description": " A unified framework for machine learning with time series. \n"
+        },
+        {
+            "sub_content": "darts ",
+            "description": " A python library for easy manipulation and forecasting of time series.\n"
+        },
+        {
+            "sub_content": "statsforecast ",
+            "description": " Lightning fast forecasting with statistical and econometric models.\n"
+        },
+        {
+            "sub_content": "mlforecast ",
+            "description": " Scalable machine learning based time series forecasting.\n"
+        },
+        {
+            "sub_content": "neuralforecast ",
+            "description": " Scalable machine learning based time series forecasting.\n"
+        },
+        {
+            "sub_content": "tslearn ",
+            "description": " Machine learning toolkit dedicated to time series data. \n"
+        },
+        {
+            "sub_content": "tick ",
+            "description": " Module for statistical learning, with a particular emphasis on time dependent modelling.  \n"
+        },
+        {
+            "sub_content": "greykite ",
+            "description": " A flexible, intuitive and fast forecasting librarynext.\n"
+        },
+        {
+            "sub_content": "Prophet ",
+            "description": " Automatic Forecasting Procedure.\n"
+        },
+        {
+            "sub_content": "PyFlux ",
+            "description": " Open source time series library for Python.\n"
+        },
+        {
+            "sub_content": "bayesloop ",
+            "description": " Probabilistic programming framework that facilitates objective model selection for time varying parameter models.\n"
+        },
+        {
+            "sub_content": "luminol ",
+            "description": " Anomaly Detection and Correlation library.\n"
+        },
+        {
+            "sub_content": "dateutil ",
+            "description": " Powerful extensions to the standard datetime module\n"
+        },
+        {
+            "sub_content": "maya ",
+            "description": " makes it very easy to parse a string and for changing timezones\n"
+        },
+        {
+            "sub_content": "Chaos Genius ",
+            "description": " ML powered analytics engine for outlier/anomaly detection and root cause analysis\n"
+        }
+    ],
+    "Natural Language Processing": [
+        {
+            "sub_content": "NLTK ",
+            "description": "  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.\n"
+        },
+        {
+            "sub_content": "CLTK ",
+            "description": " The Classical Language Toolkik.\n"
+        },
+        {
+            "sub_content": "gensim ",
+            "description": " Topic Modelling for Humans.\n"
+        },
+        {
+            "sub_content": "PSI Toolkit ",
+            "description": " A natural language processing toolkit.\n"
+        },
+        {
+            "sub_content": "pyMorfologik ",
+            "description": " Python binding for Morfologik.\n"
+        },
+        {
+            "sub_content": "skift ",
+            "description": " Scikit learn wrappers for Python fastText. \n"
+        },
+        {
+            "sub_content": "Phonemizer ",
+            "description": " Simple text to phonemes converter for multiple languages.\n"
+        },
+        {
+            "sub_content": "flair ",
+            "description": " Very simple framework for state of the art NLP.\n"
+        },
+        {
+            "sub_content": "spaCy ",
+            "description": " Industrial Strength Natural Language Processing.\n"
+        }
+    ],
+    "Computer Audition": [
+        {
+            "sub_content": "librosa ",
+            "description": " Python library for audio and music analysis.\n"
+        },
+        {
+            "sub_content": "Yaafe ",
+            "description": " Audio features extraction.\n"
+        },
+        {
+            "sub_content": "aubio ",
+            "description": " A library for audio and music analysis.\n"
+        },
+        {
+            "sub_content": "Essentia ",
+            "description": " Library for audio and music analysis, description and synthesis.\n"
+        },
+        {
+            "sub_content": "LibXtract ",
+            "description": " A simple, portable, lightweight library of audio feature extraction functions.\n"
+        },
+        {
+            "sub_content": "Marsyas ",
+            "description": " Music Analysis, Retrieval and Synthesis for Audio Signals.\n"
+        },
+        {
+            "sub_content": "muda ",
+            "description": " A library for augmenting annotated audio data.\n"
+        },
+        {
+            "sub_content": "madmom ",
+            "description": " Python audio and music signal processing library.\n"
+        }
+    ],
+    "Computer Vision": [
+        {
+            "sub_content": "OpenCV ",
+            "description": " Open Source Computer Vision Library.\n"
+        },
+        {
+            "sub_content": "scikit image ",
+            "description": " Image Processing SciKit (Toolbox for SciPy).\n"
+        },
+        {
+            "sub_content": "imgaug ",
+            "description": " Image augmentation for machine learning experiments.\n"
+        },
+        {
+            "sub_content": "imgaug_extension ",
+            "description": " Additional augmentations for imgaug.\n"
+        },
+        {
+            "sub_content": "Augmentor ",
+            "description": " Image augmentation library in Python for machine learning.\n"
+        },
+        {
+            "sub_content": "albumentations ",
+            "description": " Fast image augmentation library and easy to use wrapper around other libraries.\n"
+        }
+    ],
+    "Statistics": [
+        {
+            "sub_content": "pandas_summary ",
+            "description": " Extension to pandas dataframes describe function. \n"
+        },
+        {
+            "sub_content": "Pandas Profiling ",
+            "description": " Create HTML profiling reports from pandas DataFrame objects. \n"
+        },
+        {
+            "sub_content": "statsmodels ",
+            "description": " Statistical modeling and econometrics in Python.\n"
+        },
+        {
+            "sub_content": "stockstats ",
+            "description": " Supply a wrapper StockDataFrame based on the pandas.DataFrame with inline stock statistics/indicators support.\n"
+        },
+        {
+            "sub_content": "weightedcalcs ",
+            "description": " A pandas based utility to calculate weighted means, medians, distributions, standard deviations, and more.\n"
+        },
+        {
+            "sub_content": "scikit posthocs ",
+            "description": " Pairwise Multiple Comparisons Post hoc Tests.\n"
+        },
+        {
+            "sub_content": "Alphalens ",
+            "description": " Performance analysis of predictive (alpha) stock factors.\n"
+        }
+    ],
+    "Distributed Computing": [
+        {
+            "sub_content": "Horovod ",
+            "description": " Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. \n"
+        },
+        {
+            "sub_content": "PySpark ",
+            "description": " Exposes the Spark programming model to Python. \n"
+        },
+        {
+            "sub_content": "Veles ",
+            "description": " Distributed machine learning platform.\n"
+        },
+        {
+            "sub_content": "Jubatus ",
+            "description": " Framework and Library for Distributed Online Machine Learning.\n"
+        },
+        {
+            "sub_content": "DMTK ",
+            "description": " Microsoft Distributed Machine Learning Toolkit.\n"
+        },
+        {
+            "sub_content": "PaddlePaddle ",
+            "description": " PArallel Distributed Deep LEarning.\n"
+        },
+        {
+            "sub_content": "dask ml ",
+            "description": " Distributed and parallel machine learning. \n"
+        },
+        {
+            "sub_content": "Distributed ",
+            "description": " Distributed computation in Python.\n"
+        }
+    ],
+    "Experimentation": [
+        {
+            "sub_content": "envd ",
+            "description": " 🏕️ machine learning development environment for data science and AI/ML engineering teams.\n"
+        },
+        {
+            "sub_content": "Sacred ",
+            "description": " A tool to help you configure, organize, log and reproduce experiments.\n"
+        },
+        {
+            "sub_content": "Xcessiv ",
+            "description": " A web based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling.\n"
+        },
+        {
+            "sub_content": "Persimmon ",
+            "description": " A visual dataflow programming language for sklearn.\n"
+        },
+        {
+            "sub_content": "Ax ",
+            "description": " Adaptive Experimentation Platform. \n"
+        },
+        {
+            "sub_content": "Neptune ",
+            "description": " A lightweight ML experiment tracking, results visualization and management tool.\n"
+        }
+    ],
+    "Evaluation": [
+        {
+            "sub_content": "recmetrics ",
+            "description": " Library of useful metrics and plots for evaluating recommender systems.\n"
+        },
+        {
+            "sub_content": "Metrics ",
+            "description": " Machine learning evaluation metric.\n"
+        },
+        {
+            "sub_content": "sklearn evaluation ",
+            "description": " Model evaluation made easy: plots, tables and markdown reports. \n"
+        },
+        {
+            "sub_content": "AI Fairness 360 ",
+            "description": " Fairness metrics for datasets and ML models, explanations and algorithms to mitigate bias in datasets and models.\n"
+        }
+    ],
+    "Computations": [
+        {
+            "sub_content": "numpy ",
+            "description": " The fundamental package needed for scientific computing with Python.\n"
+        },
+        {
+            "sub_content": "Dask ",
+            "description": " Parallel computing with task scheduling. \n"
+        },
+        {
+            "sub_content": "bottleneck ",
+            "description": " Fast NumPy array functions written in C.\n"
+        },
+        {
+            "sub_content": "CuPy ",
+            "description": " NumPy like API accelerated with CUDA.\n"
+        },
+        {
+            "sub_content": "scikit tensor ",
+            "description": " Python library for multilinear algebra and tensor factorizations.\n"
+        },
+        {
+            "sub_content": "numdifftools ",
+            "description": " Solve automatic numerical differentiation problems in one or more variables.\n"
+        },
+        {
+            "sub_content": "quaternion ",
+            "description": " Add built in support for quaternions to numpy.\n"
+        },
+        {
+            "sub_content": "adaptive ",
+            "description": " Tools for adaptive and parallel samping of mathematical functions.\n"
+        }
+    ],
+    "Spatial Analysis": [
+        {
+            "sub_content": "GeoPandas ",
+            "description": " Python tools for geographic data. \n"
+        },
+        {
+            "sub_content": "PySal ",
+            "description": " Python Spatial Analysis Library.\n"
+        }
+    ],
+    "Quantum Computing": [
+        {
+            "sub_content": "PennyLane ",
+            "description": " Quantum machine learning, automatic differentiation, and optimization of hybrid quantum classical computations.\n"
+        },
+        {
+            "sub_content": "QML ",
+            "description": " A Python Toolkit for Quantum Machine Learning.\n"
+        }
+    ],
+    "Conversion": [
+        {
+            "sub_content": "sklearn porter ",
+            "description": " Transpile trained scikit learn estimators to C, Java, JavaScript and others.\n"
+        },
+        {
+            "sub_content": "ONNX ",
+            "description": " Open Neural Network Exchange.\n"
+        },
+        {
+            "sub_content": "MMdnn ",
+            "description": "  A set of tools to help users inter operate among different deep learning frameworks.\n"
+        }
+    ]
+}

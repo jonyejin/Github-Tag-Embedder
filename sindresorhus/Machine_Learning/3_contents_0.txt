@@ -1,0 +1,45 @@
+Machine Learning
+General Purpouse Machine Learning
+Automated Machine Learning
+Ensemble Methods
+Imbalanced Datasets
+Random Forests
+Extreme Learning Machine
+Kernel Methods
+Gradient Boosting
+Deep Learning
+PyTorch
+TensorFlow
+MXNet
+Others
+Web Scraping
+Data Manipulation
+Data Containers
+Pipelines
+Feature Engineering
+General
+Feature Selection
+Visualization
+General Purposes
+Interactive plots
+Map
+Automatic Plotting
+NLP
+Deployment
+Model Explanation
+Reinforcement Learning
+Probabilistic Methods
+Genetic Programming
+Optimization
+Time Series
+Natural Language Processing
+Computer Audition
+Computer Vision
+Statistics
+Distributed Computing
+Experimentation
+Evaluation
+Computations
+Spatial Analysis
+Quantum Computing
+Conversion
