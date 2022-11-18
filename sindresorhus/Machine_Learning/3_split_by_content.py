@@ -1,7 +1,7 @@
 import json
 
 content_list = []
-with open("/Users/andrewwonwhoonah/Github-Tag-Embedder/sindresorhus/contents.txt", 'r') as content:
+with open("/Users/andrewwonwhoonah/Github-Tag-Embedder/sindresorhus/Machine_Learning/3_contents_1.txt", 'r') as content:
     while True:
         line = content.readline().rstrip()
         if not line:
@@ -14,7 +14,7 @@ item_list = []
 line = ""
 index = 0
 
-with open('/Users/andrewwonwhoonah/Github-Tag-Embedder/sindresorhus/items_raw.txt', 'r') as f:
+with open('/Users/andrewwonwhoonah/Github-Tag-Embedder/sindresorhus/Machine_Learning/2_refined_1.txt', 'r') as f:
     # 제목 순회
     while True:
         line = f.readline()
@@ -49,5 +49,5 @@ for key in output:
         else:
             output[key][i] = {"sub_content" : tmp[0], "description": tmp[1]}
 
-with open("/Users/andrewwonwhoonah/Github-Tag-Embedder/sindresorhus/output.json", "w") as json_file:
+with open("/Users/andrewwonwhoonah/Github-Tag-Embedder/sindresorhus/Machine_Learning/output.json", "w") as json_file:
     json.dump(output, json_file)
