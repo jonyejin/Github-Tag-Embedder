@@ -3,13 +3,15 @@ import wget
 import json
 import urllib.request
 import requests as req
-
+import markdown # pip install markdown
+from bs4 import BeautifulSoup # pip install beautifulsoup4
 
 # token = "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" #d원후
 # token = "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" # 치현
 # "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" # yejin
 # token = "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"
-token = "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" # yejin another
+# token = "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" # yejin another
+token = "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" # yejin another
 headers = {"Authorization": "token " + token,
                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko)"
                              "Chrome/84.0.4147.89 Safari/537.36"}
@@ -232,6 +234,11 @@ def get_repository_infos(login, repo_name, headers):
     # print(data["topics"])
     return data["topics"]
 
+def md_to_text(md):
+    html = markdown.markdown(md)
+    soup = BeautifulSoup(html, features='html.parser')
+    return soup.get_text()
+
 def get_repository_README(login, repo_name, topics):
     # status code 확인하기
     r1 = f"https://github.com/{login}/{repo_name}/raw/master/README.md"
@@ -242,13 +249,13 @@ def get_repository_README(login, repo_name, topics):
       print(r1)
       with urllib.request.urlopen(r1) as f:
         body = f.read().decode('utf-8')
-        my_json[" ".join(topics)] = body
+        my_json[" ".join(topics)] = md_to_text(body)
 
     elif test_r2.status_code == 200:
       print(r2)
       with urllib.request.urlopen(r2) as f:
         body = f.read().decode('utf-8')
-        my_json[" ".join(topics)] = body
+        my_json[" ".join(topics)] = md_to_text(body)
     else:
       print("parse 실패")
 whole_func(urls, headers)     
