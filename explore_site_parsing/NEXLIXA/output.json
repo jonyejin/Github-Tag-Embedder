@@ -1,5 +1,5 @@
-{
-    "data science": [
+
+    [
         "https://github.com/keras-team/keras",
         "https://github.com/scikit-learn/scikit-learn",
         "https://github.com/apache/superset",
@@ -955,8 +955,6 @@
         "https://github.com/apache/incubator-liminal",
         "https://github.com/napjon/krisk",
         "https://github.com/kevin-hanselman/dud"
-    ],
-    "scikit learn": [
         "https://github.com/microsoft/ML-For-Beginners",
         "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
         "https://github.com/jakevdp/PythonDataScienceHandbook",
@@ -1914,8 +1912,6 @@
         "https://github.com/lmedeiro/fe_and_pm_for_financial_time_series",
         "https://github.com/sahirnoorali/poker-hand-analysis",
         "https://github.com/BhagyeshVikani/Pump-it-Up-Data-Mining-the-Water-Table"
-    ],
-    "python": [
         "https://github.com/donnemartin/system-design-primer",
         "https://github.com/tensorflow/tensorflow",
         "https://github.com/CyC2018/CS-Notes",
@@ -2880,8 +2876,6 @@
         "https://github.com/pantsbuild/pants",
         "https://github.com/nathanlopez/Stitch",
         "https://github.com/autorope/donkeycar"
-    ],
-    "nlp": [
         "https://github.com/huggingface/transformers",
         "https://github.com/apachecn/ailearning",
         "https://github.com/google-research/bert",
@@ -3862,8 +3856,6 @@
         "https://github.com/simongray/clojure-dsl-resources",
         "https://github.com/TheProtaganist/gpt-j",
         "https://github.com/RocketChat/hubot-natural"
-    ],
-    "machine learning": [
         "https://github.com/tensorflow/tensorflow",
         "https://github.com/huggingface/transformers",
         "https://github.com/pytorch/pytorch",
@@ -4829,8 +4821,6 @@
         "https://github.com/The-AI-Summer/self-attention-cv",
         "https://github.com/joeddav/devol",
         "https://github.com/sentinel-hub/eo-learn"
-    ],
-    "deep-learning": [
         "https://github.com/tensorflow/tensorflow",
         "https://github.com/huggingface/transformers",
         "https://github.com/opencv/opencv",
@@ -5789,8 +5779,6 @@
         "https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
         "https://github.com/awslabs/multi-model-server",
         "https://github.com/Yuheng-Li/MixNMatch"
-    ],
-    "data visualization": [
         "https://github.com/d3/d3",
         "https://github.com/apache/echarts",
         "https://github.com/grafana/grafana",
@@ -6736,8 +6724,7 @@
         "https://github.com/97k/spam-ham-web-app",
         "https://github.com/datacarpentry/genomics-r-intro",
         "https://github.com/PacktPublishing/Interactive-Visualization-and-Plotting-with-Julia"
-    ],
-    "data-structures": [
+
         "https://github.com/jwasham/coding-interview-university",
         "https://github.com/trekhleb/javascript-algorithms",
         "https://github.com/labuladong/fucking-algorithm",
@@ -7698,4 +7685,3 @@
         "https://github.com/TauWu/backend_learning_notes",
         "https://github.com/shirohoo/learning-algorithm"
     ]
-}
