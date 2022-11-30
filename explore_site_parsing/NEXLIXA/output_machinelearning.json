@@ -1,5 +1,5 @@
 {
-    "machine-learning": [
+    "machine learning": [
         "https://github.com/tensorflow/tensorflow",
         "https://github.com/huggingface/transformers",
         "https://github.com/pytorch/pytorch",
