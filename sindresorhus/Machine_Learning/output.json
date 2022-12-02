@@ -1,1 +1,23 @@
-{"machine-learning": ["https://github.com/tensorflow/tensorflow", "https://github.com/huggingface/transformers", "https://github.com/pytorch/pytorch", "https://github.com/keras-team/keras", "https://github.com/scikit-learn/scikit-learn", "https://github.com/tesseract-ocr/tesseract", "https://github.com/ageitgey/face_recognition", "https://github.com/microsoft/ML-For-Beginners", "https://github.com/deepfakes/faceswap", "https://github.com/aymericdamien/TensorFlow-Examples", "https://github.com/binhnguyennus/awesome-scalability", "https://github.com/JuliaLang/julia", "https://github.com/Avik-Jain/100-Days-Of-ML-Code", "https://github.com/d2l-ai/d2l-zh", "https://github.com/iperov/DeepFaceLab", "https://github.com/ultralytics/yolov5", "https://github.com/BVLC/caffe", "https://github.com/GokuMohandas/Made-With-ML", "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes"]}
+{
+    "machine-learning": [
+        "https://github.com/tensorflow/tensorflow",
+        "https://github.com/huggingface/transformers",
+        "https://github.com/pytorch/pytorch",
+        "https://github.com/keras-team/keras",
+        "https://github.com/scikit-learn/scikit-learn",
+        "https://github.com/tesseract-ocr/tesseract",
+        "https://github.com/ageitgey/face_recognition",
+        "https://github.com/microsoft/ML-For-Beginners",
+        "https://github.com/deepfakes/faceswap",
+        "https://github.com/aymericdamien/TensorFlow-Examples",
+        "https://github.com/binhnguyennus/awesome-scalability",
+        "https://github.com/JuliaLang/julia",
+        "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+        "https://github.com/d2l-ai/d2l-zh",
+        "https://github.com/iperov/DeepFaceLab",
+        "https://github.com/ultralytics/yolov5",
+        "https://github.com/BVLC/caffe",
+        "https://github.com/GokuMohandas/Made-With-ML",
+        "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes"
+    ]
+}
