@@ -9,6 +9,10 @@
   "ai": "artificial-intelligence",
   "dnn": "deep-neural-network",
   "nlp": "natural-language-processing",
+  "cnn": "convolutional-neural-network",
+  "gan": "generative-adversarial-network",
+  "rnn": "recurrent-neural-network",
+  
   "ml": "machine-learning",
   "rl": "reinforcement-learning",
   "mlp": "multi-layer-perceptron",
@@ -21,6 +25,7 @@
   "np": "numpy",
   "pd": "pandas",
   "tf": "tensorflow",
+  "py": "python",
 
   "deep-neural-networks": "deep-neural-network",
   "ml-ops": "mlops",
