@@ -1,0 +1,386 @@
+User Interface Components
+Security
+Machine Learning
+Networking
+User Interface
+Data Processing
+Media
+Control Flow
+Frameworks
+Applications
+Programming Languages
+Web User Interface
+                                    Content Management
+                                   
+                                    Learning Resources
+                                   
+                                    Hardware
+                                    Text Processing
+                                    Libraries
+                                    Software Quality
+                                    Data Storage
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        116
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/operations">
+                                    Operations
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        114
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/games">
+                                    Games
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        110
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                        <div style="width:190px;padding:10px;padding-bottom:0px;margin-left:0;margin-right:15px;margin-top:15px;border:1px solid lightgray;background-color:white;border-radius:10px;box-shadow:1px 1px 5px lightgray">
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/application-programming-interfaces">
+                                    Application Programming Interfaces
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        107
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/build-tools">
+                                    Build Tools
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        105
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/messaging">
+                                    Messaging
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        96
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/graphics">
+                                    Graphics
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        92
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/runtime-environments">
+                                    Runtime Environments
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        90
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/community">
+                                    Community
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        79
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/computer-science">
+                                    Computer Science
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        73
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                        <div style="width:190px;padding:10px;padding-bottom:0px;margin-left:0;margin-right:15px;margin-top:15px;border:1px solid lightgray;background-color:white;border-radius:10px;box-shadow:1px 1px 5px lightgray">
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/operating-systems">
+                                    Operating Systems
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        72
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/data-formats">
+                                    Data Formats
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        72
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/artificial-intelligence">
+                                    Artificial Intelligence
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        69
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/cloud-computing">
+                                    Cloud Computing
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        68
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/blockchain">
+                                    Blockchain
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        66
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/software-architecture">
+                                    Software Architecture
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        65
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/virtualization">
+                                    Virtualization
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        63
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                        <div style="width:190px;padding:10px;padding-bottom:0px;margin-left:0;margin-right:15px;margin-top:15px;border:1px solid lightgray;background-color:white;border-radius:10px;box-shadow:1px 1px 5px lightgray">
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/software-development">
+                                    Software Development
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        60
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/companies">
+                                    Companies
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        60
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/compilers">
+                                    Compilers
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        59
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/mapping">
+                                    Mapping
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        57
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/economics">
+                                    Economics
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        56
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/mathematics">
+                                    Mathematics
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        54
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/software-performance">
+                                    Software Performance
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        53
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                        <div style="width:190px;padding:10px;padding-bottom:0px;margin-left:0;margin-right:15px;margin-top:15px;border:1px solid lightgray;background-color:white;border-radius:10px;box-shadow:1px 1px 5px lightgray">
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/package-managers">
+                                    Package Managers
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        50
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/integrated-development-environments">
+                                    Integrated Development Environments
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        43
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/science">
+                                    Science
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        42
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/text-editors">
+                                    Text Editors
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        40
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/command-line-interface">
+                                    Command Line Interface
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        38
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/configuration-management">
+                                    Configuration Management
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        37
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/web-browsers">
+                                    Web Browsers
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        35
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                        <div style="width:190px;padding:10px;padding-bottom:0px;margin-left:0;margin-right:15px;margin-top:15px;border:1px solid lightgray;background-color:white;border-radius:10px;box-shadow:1px 1px 5px lightgray">
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/collaboration">
+                                    Collaboration
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        27
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/version-control">
+                                    Version Control
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        26
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/legal">
+                                    Legal
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        24
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/code-quality">
+                                    Code Quality
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        24
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/web-servers">
+                                    Web Servers
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        23
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/social-media">
+                                    Social Media
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        23
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/lists-of-projects">
+                                    Lists Of Projects
+                                    <span class="aos_project_count">
+                                         📦 <!-- -->
+                                        19
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                                    Marketing
+                                         📦 <!-- -->
+                                        15
+                                    </span>
+                                </a>
+                            </div>
+                            <div style="padding-bottom:12px">
+                                <a href="https://awesomeopensource.com/categories/advertising">
+                                    Advertising
+                                         📦 <!-- -->
+                                        8
+                                    </span>
+                                </a>
+                            </div>
+                                <a href="https://awesomeopensource.com/projects">All Projects</a>
