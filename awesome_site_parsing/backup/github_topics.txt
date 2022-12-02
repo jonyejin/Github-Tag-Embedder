@@ -1,0 +1,8 @@
+오래된거는 related가 없다
+
+*.md
+aliases
+display_name
+short_description
+topic
+wikipedia_url
