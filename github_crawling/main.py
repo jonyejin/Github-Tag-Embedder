@@ -5,7 +5,7 @@ import urllib.request
 import requests as req
 import markdown # pip install markdown
 from bs4 import BeautifulSoup # pip install beautifulsoup4
-
+import re
 # token = "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" #d원후
 # token = "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" # 치현
 # "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" # yejin
@@ -21,6 +21,7 @@ my_json = {}
 urls = [
   "https://github.com/keras-team/keras",
 ]
+articles = ["a", "an", "the", "and", "is", "or", "in", "only", "for", "to", "be", "it", "as", "of"]
 
 # yejin: id와 repo_name을 넣으면 파싱된 결과를 리턴해줌
 def whole_func(repo_urls, headers):
@@ -42,6 +43,17 @@ def get_repository_infos(login, repo_name, headers):
     # print(data["topics"])
     return data["topics"]
 
+def filtering_articles(w):
+    if w not in articles:
+        return w
+def cleaning(text):
+    text = text.lower()    
+    # remove all letters not alphabet
+    # 주의! 영어~특수문자~영어를 띄어쓰기로 바꾼다.
+    text = re.sub('([^a-zA-Z])+', repl=' ', string=text)
+    # remove keywords
+    text = " ".join(filter(filtering_articles, text.split()))
+    return text
 def md_to_text(md):
     html = markdown.markdown(md)
     soup = BeautifulSoup(html, features='html.parser')
