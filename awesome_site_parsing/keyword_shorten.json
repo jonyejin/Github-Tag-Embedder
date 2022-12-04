@@ -1,0 +1,39 @@
+{
+  "learnings": "learning",
+  "machines": "machine",
+  "tensorflows": "tensorflow",
+  "algorithms": "algorithm",
+  "networks": "network",
+  "gpus": "gpu",
+
+  "ai": "artificial-intelligence",
+  "dnn": "deep-neural-network",
+  "nlp": "natural-language-processing",
+  "cnn": "convolutional-neural-network",
+  "gan": "generative-adversarial-network",
+  "rnn": "recurrent-neural-network",
+  
+  "ml": "machine-learning",
+  "rl": "reinforcement-learning",
+  "mlp": "multi-layer-perceptron",
+  "svm": "singular-vector-machine",
+  "nn": "neural-network",
+  "lgbm": "light-gradient-boosting-machine",
+  "gbm": "gradient-boosting-machine",
+  "viz": "visualization",
+  "cv": "computer vision",
+  "np": "numpy",
+  "pd": "pandas",
+  "tf": "tensorflow",
+  "py": "python",
+
+  "deep-neural-networks": "deep-neural-network",
+  "ml-ops": "mlops",
+  "auto-ml": "automl",
+
+  "datacleansing": "data-cleansing",
+  "datajournalism": "data-journalism",
+  "datamining": "data-mining",
+  "machinelearning": "machine-learning",
+  "deeplearning": "deep-learning"
+}
